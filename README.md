@@ -8,4 +8,4 @@ Our research activities are focused towards attaining a high score in National C
 We locate the data which can be opened to public on this "classB" repository.
 You can freely download them.
 
-We hope you find the informative.
+We hope you find informative.
