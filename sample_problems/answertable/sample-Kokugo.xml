@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE answerTable SYSTEM "http://21robot.org/answerTable.dtd">
+<answerTable filename="sample-Kokugo">
+<data>
+<section>第3問</section>
+<question>1</question>
+<answer_column>21</answer_column>
+<answer>3</answer>
+<score>5</score>
+<answer_type>sentence</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type> </knowledge_type>
+<question_ID>Q37</question_ID>
+<anscolumn_ID>A21</anscolumn_ID>
+</data>
+<data>
+<section>第3問</section>
+<question>1</question>
+<answer_column>22</answer_column>
+<answer>1</answer>
+<score>5</score>
+<answer_type>sentence</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type> </knowledge_type>
+<question_ID>Q38</question_ID>
+<anscolumn_ID>A22</anscolumn_ID>
+</data>
+<data>
+<section>第3問</section>
+<question>1</question>
+<answer_column>23</answer_column>
+<answer>4</answer>
+<score>5</score>
+<answer_type>sentence</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type> </knowledge_type>
+<question_ID>Q39</question_ID>
+<anscolumn_ID>A23</anscolumn_ID>
+</data>
+<data>
+<section>第3問</section>
+<question>2</question>
+<answer_column>24</answer_column>
+<answer>4</answer>
+<score>6</score>
+<answer_type>(symbol-sentence)*3</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type>JC, JG_2</knowledge_type>
+<question_ID>Q17</question_ID>
+<anscolumn_ID>A24</anscolumn_ID>
+</data>
+<data>
+<section>第3問</section>
+<question>3</question>
+<answer_column>25</answer_column>
+<answer>3</answer>
+<score>6</score>
+<answer_type>sentence</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type>JC, ST_2, POE</knowledge_type>
+<question_ID>Q18</question_ID>
+<anscolumn_ID>A25</anscolumn_ID>
+</data>
+<data>
+<section>第3問</section>
+<question>4</question>
+<answer_column>26</answer_column>
+<answer>2</answer>
+<score>7</score>
+<answer_type>sentence</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type>JC, R_EMO</knowledge_type>
+<question_ID>Q19</question_ID>
+<anscolumn_ID>A26</anscolumn_ID>
+</data>
+<data>
+<section>第3問</section>
+<question>5</question>
+<answer_column>27</answer_column>
+<answer>1</answer>
+<score>8</score>
+<answer_type>sentence</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type>JC, R_EMO</knowledge_type>
+<question_ID>Q20</question_ID>
+<anscolumn_ID>A27</anscolumn_ID>
+</data>
+<data>
+<section>第3問</section>
+<question>6</question>
+<answer_column>28</answer_column>
+<answer>5</answer>
+<score>8</score>
+<answer_type>sentence</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type>JC, R_SUM</knowledge_type>
+<question_ID>Q21</question_ID>
+<anscolumn_ID>A28</anscolumn_ID>
+</data>
+</answerTable>

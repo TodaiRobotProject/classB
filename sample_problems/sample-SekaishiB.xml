@@ -1,0 +1,227 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+
+<exam source="National Center For University Entrance Examination" subject="SekaishiB(main exam)" year="2009">
+  Center-2009--Main-SekaishiB<br/>
+  <title>
+    2009年度 本試験 世界史Ｂ<br/><br/>
+  </title>
+  <question id="Q1" minimal="no">
+    <label>【１】</label>
+    <instruction>
+      <br/><br/> 人類が営む生業と労働は，経済・社会・政治の動きと密接にかかわりながら，大きく変容してきた。生業と労働の歴史について述べた次の文章Ａ～Ｃを読み，以下の問い(問１～９)に答えよ。<br/> (配点 25)<br/>
+    </instruction>
+    <data id="D0" type="text">
+      <label>Ａ</label><br/> 清の学者趙翼は，明代の文化人の趨勢を論じて，<uText id="U1"><label>(1)</label>唐宋以来，文化・芸術に秀でた者の多くは科挙の合格者であった</uText>が，<uText id="U2"><label>(2)</label>明代</uText>になってその担い手は在野の人物に移っていったと述べている。明代中期の画家唐寅は，まさにその過渡期の人物と言える。彼は科挙で優秀な成績を収めながらも，不運な事件に巻き込まれ，栄達の道を絶たれてからは，蘇州で画業をなりわいとしながら自由奔放な生活を送った。明代中期から後期にかけて，在野の芸術家や文筆家が続々と現れたのは，<uText id="U3"><label>(3)</label>江南を中心とする商工業の発展</uText>によって都市の文化が成熟し，絵画や出版物が広く商品としての価値を持つようになったからであった。<br/><br/>
+    </data>
+    <question anscol="A1" answer_style="multipleChoice" answer_type="sentence" id="Q2" knowledge_type="KS" minimal="yes">
+      <label>問１</label>
+      <instruction>
+         下線部<ref comment="" target="U1">(1)</ref>に関連して，次に挙げる人物は，いずれも唐代から宋代にかけての科挙の合格者である。それぞれの人物について述べた文として正しいものを，次の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A1">１</ansColumn><br/>
+      <choices anscol="A1" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 欧陽脩や蘇軾は，唐代を代表する文筆家である。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 顔真卿は，宋代を代表する書家である。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 宋の王安石は，新法と呼ばれる改革を行った。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 秦檜は，元との関係をめぐり主戦派と対立した。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A2" answer_style="multipleChoice" answer_type="sentence" id="Q3" knowledge_type="KS" minimal="yes">
+      <label>問２</label>
+      <instruction>
+         下線部<ref comment="" target="U2">(2)</ref>の時代に起こった出来事について述べた文として最も適当なものを，次の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A2">２</ansColumn><br/>
+      <choices anscol="A2" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 中国で日本銀が流通した。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 禅宗と呼ばれる仏教の一派が生まれた。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 戯曲『西廂記』が生まれた。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 臨安(現在の杭州)に都が置かれた。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A3" answer_style="multipleChoice" answer_type="(symbol-term_other)*2" id="Q4" knowledge_type="KS" minimal="yes">
+      <label>問３</label>
+      <instruction>
+         下線部<ref comment="" target="U3">(3)</ref>について述べた次の文章中の <ref target="B1">ア</ref> と<ref target="B2"> イ</ref> に入れる語の組合せとして正しいものを，以下の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A3">３</ansColumn><br/><br/>
+      <data id="D12" type="text">
+        明代中期から，長江下流域では絹織物や綿織物などの手工業が発展する一方，穀倉地帯は長江中流域に広がり，「<blank id="B1"><label>ア</label></blank> 熟すれば天下足る」という言葉が生まれた。山西商人や新安商人が活躍し，各地の都市に互助組織である会館や<blank id="B2"><label>イ</label></blank> が置かれた。<br/>
+      </data>
+      <br/>
+      <choices anscol="A3" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum><ref comment="" target="B1">ア</ref>−湖 広 <ref comment="" target="B2">イ</ref>−公 所 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum><ref comment="" target="B1">ア</ref>−湖 広 <ref comment="" target="B2">イ</ref>−租 界 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum><ref comment="" target="B1">ア</ref>−蘇湖(江浙) <ref comment="" target="B2">イ</ref>−公 所 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum><ref comment="" target="B1">ア</ref>−蘇湖(江浙) <ref comment="" target="B2">イ</ref>−租 界 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <data id="D1" type="text">
+      <label>Ｂ</label><br/> アルプス以北のヨーロッパでは，<uText id="U4"><label>(4)</label>農民や都市の下層民</uText>が，一つの生業で生活を維持するのが困難であることも珍しくなかった。とりわけ，<uText id="U5"><label>(5)</label>15世紀後半から16世紀後半</uText>には，人口増加の影響もあって，大量の貧農や困窮した下層民が生み出され，<uText id="U6"><label>(6)</label>彼らの中には，傭兵の道を選ぶ者も少なくなかった。</uText>徴募時の一時金や給与は，彼らの生活を支えた。三十年戦争は，こうした傭兵たちを主な担い手とした戦争だったのである。<br/><br/>
+    </data>
+    <question anscol="A4" answer_style="multipleChoice" answer_type="sentence" id="Q5" knowledge_type="KS" minimal="yes">
+      <label>問４</label>
+      <instruction>
+         下線部<ref comment="" target="U4">(4)</ref>に関連して，農村や都市について述べた文として最も適当なものを，次の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A4">４</ansColumn><br/>
+      <choices anscol="A4" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 11世紀に，イギリスでは，牧羊を目的に囲い込みが行われた。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 12世紀に，エルベ川以東に，農場領主制(グーツヘルシャフト)が広まった。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> ギルドは，生産・流通の自由競争を保障するために組織された。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> ハンザ同盟は，リューベックを盟主とした。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A5" answer_style="multipleChoice" answer_type="sentence" id="Q6" knowledge_type="KS" minimal="yes">
+      <label>問５</label>
+      <instruction>
+         下線部<ref comment="" target="U5">(5)</ref>の時期に起こった出来事について述べた文として正しいものを，次の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A5">５</ansColumn><br/>
+      <choices anscol="A5" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> ドイツでは，シュマルカルデン同盟が結成された。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> インドでは，マラータ同盟が結成された。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> イギリスでは，ワット＝タイラーの乱が起こった。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 中国では，紅巾の乱が起こった。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A6" answer_style="multipleChoice" answer_type="sentence" id="Q7" knowledge_type="KS" minimal="yes">
+      <label>問６</label>
+      <instruction>
+         下線部<ref comment="" target="U6">(6)</ref>に関連して，兵制や兵士について述べた文として最も適当なものを，次の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A6">６</ansColumn><br/>
+      <choices anscol="A6" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> ポエニ戦争後，重装歩兵として従軍した農民層は経済的に豊かになった。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 八旗は，順治帝が創設した軍隊である。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> イェニチェリは，オスマン帝国の常備軍であった。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> フランク王国では，テマ制(軍管区制)の下で屯田兵制が行われた。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <data id="D2" type="text">
+      <label>Ｃ</label><br/> 「鉄鋼王」と呼ばれたアンドルー＝カーネギーは，近代における生業と労働の変容とともに人生を歩んだ人物である。彼は，1848年，家族に連れられ，スコットランドからアメリカ合衆国に移住した。その背景は，<uText id="U7"><label>(7)</label>工場製の安価な綿織物の普及</uText>により，家業の毛織物業が苦境に陥ったことにあった。鉄道の電信技師として働いた後，彼は実業家へと転じ，新技術を活用した鉄鋼業で成功を収めた。この時期の<uText id="U8"><label>(8)</label>大規模な産業構造の転換</uText>は，職人や農民から工場労働者へと転じる人々の急増，ホワイトカラーの出現など，生業と労働のあり方を大きく変容させた。また，<uText id="U9"><label>(9)</label>労働問題</uText>の深刻化もその帰結の一つであった。カーネギーの製鉄会社でも，生産の拡大とともに労働争議が頻発したのである。<br/><br/>
+    </data>
+    <question anscol="A7" answer_style="multipleChoice" answer_type="sentence" id="Q8" knowledge_type="KS" minimal="yes">
+      <label>問７</label>
+      <instruction>
+         下線部<ref comment="" target="U7">(7)</ref>に関連して，イギリスの商業・製造業にかかわる出来事について述べた文として正しいものを，次の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A7">７</ansColumn><br/>
+      <choices anscol="A7" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> イギリスは，マカートニーを派遣して清に自由貿易を認めさせた。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> イギリスでは，機械を打ち壊すラダイト運動が起こった。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 茶法の廃止をきっかけに，イギリスの北米植民地で，ボストン茶会事件が起こった。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> ナポレオンは，イギリスとアメリカ合衆国の間の通商を断絶させるために，大陸封鎖令を出した。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A8" answer_style="multipleChoice" answer_type="sentence" id="Q9" knowledge_type="KS" minimal="yes">
+      <label>問８</label>
+      <instruction>
+         下線部<ref comment="" target="U8">(8)</ref>に関連して，アメリカ合衆国の産業・経済について述べた文として最も適当なものを，次の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A8">８</ansColumn><br/>
+      <choices anscol="A8" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 19世紀後半，エディソンがダイナマイトを発明した。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> フォードは，自動車の大量生産方式を生み出した。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 19世紀前半，映画産業が繁栄した。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 農業調整法(AAA)によって，農産物価格の引き下げが行われた。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A9" answer_style="multipleChoice" answer_type="sentence" id="Q10" knowledge_type="KS" minimal="yes">
+      <label>問９</label>
+      <instruction>
+         下線部<ref comment="" target="U9">(9)</ref>に対する各国ないし国際機関の取り組みについて述べた文として誤っているものを，次の①～④のうちから一つ選べ。 
+      </instruction>
+      <ansColumn id="A9">９</ansColumn><br/>
+      <choices anscol="A9" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> フランスの二月革命で成立した臨時政府は，国立作業場を設置した。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 国際連盟に，国際労働機関(ILO)が付置された。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> アメリカ合衆国では，ワグナー法によって労働者の団結権が確定した。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> イギリスでは，マクドナルド内閣の下，労働組合が合法化された。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

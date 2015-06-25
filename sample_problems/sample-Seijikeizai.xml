@@ -1,0 +1,194 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+<exam source="National Center For University Entrance Examination" subject="Seijikeizai(main exam)" year="2009">Center-2009--Main-Seijikeizai<br/>
+  <title>2009年度 本試験 政治・経済<br/>
+    <br/>
+  </title>
+  <question id="Q12" minimal="no">
+    <label>【２】</label>
+    <instruction>
+      <br/>
+      <br/> 次の文章を読み，以下の問い(問１～７)に答えよ。<br/>
+    </instruction>(配点 19)<data id="D1" type="text">
+      <br/> 日本国憲法が保障する<uText id="U11">
+        <label>(a)</label>表現の自由</uText>は，自由なコミュニケーションを通じて個人の人格を発展させ，また多様な意見の表明を通じて<uText id="U12">
+        <label>(b)</label>民主政治</uText>を機能させる重要な人権である。<br/> 表現の自由によって保障される表現の形態は，今日の情報技術の進展に伴い，いっそう多様化した。とりわけ，<uText id="U13">
+        <label>(c)</label>インターネット</uText>の登場は，いつでも，どこでも，だれでも，無数の情報を瞬時にかつグローバルに発信したり，受信したりすることを可能にした。<br/> しかし，インターネット上の表現の中には，電子匿名掲示板における一部の書き込みにみられるように，他人の<uText id="U14">
+        <label>(d)</label>プライバシー</uText>や名誉を侵害するものや，他人に対する危害を予告し不安を煽りたてるものもある。さらに，音楽や映像などのやりとりをめぐっては，著作権の侵害も問題となっている。<br/> これらの侵害が匿名で行われた場合，一般に，<uText id="U15">
+        <label>(e)</label>裁判</uText>による救済は困難となる。そこで，<uText id="U16">
+        <label>(f)</label>国会</uText>は，発信者情報の開示請求を認める<uText id="U17">
+        <label>(g)</label>法律を制定</uText>するなどの対応をしてきた。しかし，被害者救済の実効性という点で，まだ課題が残されている。<br/> いま，インターネットを通じた表現の自由と，その表現によって被害を受ける者の権利との，双方に配慮した解決策が求められている。<br/>
+      <br/>
+    </data>
+    <question anscol="A11" answer_style="multipleChoice" answer_type="sentence" id="Q13" knowledge_type="KS" minimal="yes">
+      <label>問１</label>
+      <instruction> 下線部<ref comment="" target="U11">(a)</ref>に関連する記述として最も適当なものを，次の①～④のうちから一つ選べ。 </instruction>
+      <ansColumn id="A11">11</ansColumn>
+      <br/>
+      <choices anscol="A11" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 表現の自由には，楽曲を演奏する自由は含まれない。 </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 表現の自由には，報道機関の報道の自由も含まれる。 </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 検閲の禁止は，一度刊行した出版物の再発行を禁じるものである。 </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 通信の秘密は，電信・電話による通信の内容を対象としていない。 </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A12" answer_style="multipleChoice" answer_type="sentence" id="Q14" knowledge_type="KS" minimal="yes">
+      <label>問２</label>
+      <instruction> 下線部<ref comment="" target="U12">(b)</ref>に関連する日本の制度についての記述として最も適当なものを，次の①～④のうちから一つ選べ。 </instruction>
+      <ansColumn id="A12">12</ansColumn>
+      <br/>
+      <choices anscol="A12" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 憲法改正のためには，国会の発議した憲法改正案が，国民投票の３分の２以上の賛成で承認されなければならない。 </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 国民には，衆参両院の議員，地方自治体の長と議会の議員を，秘密投票で選出することが保障されている。 </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 国民には，最高裁判所の裁判官を，その任命後初めて行われる衆議院議員総選挙または参議院議員通常選挙の際に，審査することが保障されている。 </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 内閣総理大臣を国民が直接選出できるようにするには，憲法の改正は不要だが，法律で定めなければならない。 </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A13" answer_style="multipleChoice" answer_type="sentence" id="Q15" knowledge_type="KS" minimal="yes">
+      <label>問３</label>
+      <instruction> 下線部<ref comment="" target="U13">(c)</ref>に関連する記述として最も適当なものを，次の①～④のうちから一つ選べ。 </instruction>
+      <ansColumn id="A13">13</ansColumn>
+      <br/>
+      <choices anscol="A13" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> ユビキタス・ネットワーク社会とは，インターネットを利用して得られる情報量の格差が生じた社会をいう。 </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 電子政府構想(e-Japan構想)は，IT(情報技術)を利用することにより，外国政府との折衝の迅速化を図ることを目的として登場した。 </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> コーポレート・ガバナンスは，企業内のコンピュータに対する外部からの不正アクセスを防止するために導入されている。 </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 電子商取引(eコマース)には，携帯電話を利用してインターネットに接続する個人が，業者から商品を購入することも含まれる。 </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A14" answer_style="multipleChoice" answer_type="(symbol-symbol)*3" id="Q16" knowledge_type="KS" minimal="yes">
+      <label>問４</label>
+      <instruction> 下線部<ref comment="" target="U14">(d)</ref>の権利は，新しい人権として主張されているものの一つである。新しい人権<ref target="L7">Ａ</ref>～<ref target="L9">Ｃ</ref>と，その内容<ref target="L10">ア</ref>～<ref target="L12">ウ</ref>との組合せとして正しいものを，以下の①～⑥のうちから一つ選べ。 </instruction>
+      <ansColumn id="A14">14</ansColumn>
+      <br/>
+      <br/>
+      <data id="D6" type="text">
+        <lText id="L7">
+          <label>Ａ</label> アクセス権</lText>
+        <lText id="L8">
+          <label>Ｂ</label> 知る権利<br/>
+        </lText>
+        <lText id="L9">
+          <label>Ｃ</label> プライバシー権<br/>
+        </lText>
+        <br/>
+        <lText id="L10">
+          <label>ア</label> 自分に関する情報を自らコントロールする権利<br/>
+        </lText>
+        <lText id="L11">
+          <label>イ</label> マスメディアを利用して意見を発表したり反論したりする権利<br/>
+        </lText>
+        <lText id="L12">
+          <label>ウ</label> 政府情報の開示を求める権利<br/>
+        </lText>
+        <br/>
+      </data>
+      <choices anscol="A14" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum>
+          <ref comment="" target="L7">Ａ</ref>−<ref comment="" target="L10">ア</ref>
+          <ref comment="" target="L8">Ｂ</ref>−<ref comment="" target="L11">イ</ref>
+          <ref comment="" target="L9">Ｃ</ref>−<ref comment="" target="L12">ウ</ref>
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum>
+          <ref comment="" target="L7">Ａ</ref>−<ref comment="" target="L10">ア</ref>
+          <ref comment="" target="L8">Ｂ</ref>−<ref comment="" target="L12">ウ</ref>
+          <ref comment="" target="L9">Ｃ</ref>−<ref comment="" target="L11">イ</ref>
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum>
+          <ref comment="" target="L7">Ａ</ref>−<ref comment="" target="L11">イ</ref>
+          <ref comment="" target="L8">Ｂ</ref>−<ref comment="" target="L10">ア</ref>
+          <ref comment="" target="L9">Ｃ</ref>−<ref comment="" target="L12">ウ</ref>
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum>
+          <ref comment="" target="L7">Ａ</ref>−<ref comment="" target="L11">イ</ref>
+          <ref comment="" target="L8">Ｂ</ref>−<ref comment="" target="L12">ウ</ref>
+          <ref comment="" target="L9">Ｃ</ref>−<ref comment="" target="L10">ア</ref>
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum>
+          <ref comment="" target="L7">Ａ</ref>−<ref comment="" target="L12">ウ</ref>
+          <ref comment="" target="L8">Ｂ</ref>−<ref comment="" target="L10">ア</ref>
+          <ref comment="" target="L9">Ｃ</ref>−<ref comment="" target="L11">イ</ref>
+        </choice>
+        <choice ansnum="6">
+          <cNum>⑥</cNum>
+          <ref comment="" target="L7">Ａ</ref>−<ref comment="" target="L12">ウ</ref>
+          <ref comment="" target="L8">Ｂ</ref>−<ref comment="" target="L11">イ</ref>
+          <ref comment="" target="L9">Ｃ</ref>−<ref comment="" target="L10">ア</ref>
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A15" answer_style="multipleChoice" answer_type="sentence" id="Q17" knowledge_type="KS" minimal="yes">
+      <label>問５</label>
+      <instruction> 下線部<ref comment="" target="U15">(e)</ref>に関連して，日本における裁判の制度や歴史についての記述として最も適当なものを，次の①～④のうちから一つ選べ。 </instruction>
+      <ansColumn id="A15">15</ansColumn>
+      <br/>
+      <choices anscol="A15" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 日本国憲法では，刑事被告人に弁護人依頼権が認められている。 </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 陪審制はこれまで実施されたことはない。 </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 死刑判決を受けた人が再審で無罪とされた例はない。 </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 日本国憲法では，国を被告とする裁判が禁止されている。 </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A16" answer_style="multipleChoice" answer_type="sentence" id="Q18" knowledge_type="KS" minimal="yes">
+      <label>問６</label>
+      <instruction> 下線部<ref comment="" target="U16">(f)</ref>の議員に認められている日本国憲法上の地位についての記述として誤っているものを，次の①～④のうちから一つ選べ。 </instruction>
+      <ansColumn id="A16">16</ansColumn>
+      <br/>
+      <choices anscol="A16" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 法律の定める場合を除いて，国会の会期中逮捕されない。 </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 議院内で行った演説について，議院外で責任を問われない。 </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 法律の定めるところにより，国庫から相当額の歳費を受ける。 </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 議員を除名するには，弾劾裁判所の裁判が必要となる。 </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A17" answer_style="multipleChoice" answer_type="sentence" id="Q19" knowledge_type="KS" minimal="yes">
+      <label>問７</label>
+      <instruction> 下線部<ref comment="" target="U17">(g)</ref>に関連して，日本国憲法上定められている手続についての記述として正しいものを，次の①～④のうちから一つ選べ。 </instruction>
+      <ansColumn id="A17">17</ansColumn>
+      <br/>
+      <choices anscol="A17" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 国務大臣が国会議員でない場合には，法律案について発言するためであっても，衆参両院に出席することができない。 </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 国務大臣が衆議院議員である場合には，法律案について発言するためであっても，参議院に出席することができない。 </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 衆議院で可決され参議院で否決された法律案は，衆議院で出席議員の３分の２以上の多数で再び可決されたときは，法律となる。 </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 衆議院で可決され参議院で60日以内に議決されない法律案は，衆議院の議決が国会の議決とみなされ，そのまま法律となる。 </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

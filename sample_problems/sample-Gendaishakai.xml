@@ -1,0 +1,146 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+
+<exam source="National Center For University Entrance Examination" subject="Gendaishakai(main exam)" year="2009">
+  Center-2009--Main-Gendaishakai<br/>
+  <title>
+    2009年度 本試験 現代社会<br/><br/>
+  </title>
+  <question id="Q1" minimal="no">
+    <label>【１】</label>
+    <instruction>
+      <br/><br/> 高校生(Ａ)とその母親(Ｂ)による次の会話文を読み，以下の問い(問１～５)に答えよ。<br/>
+    </instruction>
+    (配点 14)
+    <data id="D0" type="text">
+      <br/> Ａ： いよいよ<uText id="U1"><label>(a)</label>裁判員制度</uText>が始まるね。お母さんも裁判に参加できるかもしれないんだよ。すごいことだよね。<br/> Ｂ： 気楽に言わないでよ。そもそもなぜ裁判員制度が導入されたか，知ってる？<br/> Ａ： これまでの裁判が分かりにくくて，国民にとって身近なものじゃなかったから，それを改めるためだよね。国民の司法参加だよ。<br/> Ｂ： 確かに，最近では社会をより良くするための市民参加の必要性が説かれているし，裁判員制度もその一つと言えるのかな。でも，私たちが<uText id="U2"><label>(b)</label>裁判にかかわる機会</uText>は裁判員制度以外にもあるよね。<uText id="U3"><label>(c)</label>日本の司法制度が抱える問題</uText>も裁判の分かりにくさだけではないし，裁判員制度でそれがすべて解決するわけじゃないでしょ。例えば冤罪の問題はどう？<br/> Ａ： うーん。それもそうだけど，プロの裁判官だって間違った判断を絶対にしないとも限らないよ。市民感覚を取り入れることで，より妥当な結論に近づくこともあると思う。<br/> Ｂ： そう考えるとますます裁判員になるのは気が重いな。裁判は，時には判決によって人の生命を奪うことも認めるものだし，思い込みや世論に流されてしまうと逆に<uText id="U4"><label>(d)</label>人権</uText>の重大な侵害を引き起こしかねないでしょう。<br/> Ａ： 一人一人の人権感覚が問われることにもなるね。<uText id="U5"><label>(e)</label>司法を民主化することも，「人権の砦」としての役割をちゃんと果たせるようにすることも，どちらも重要で，確かに難しい問題だなあ</uText>。じっくり考えてみるよ。<br/><br/>
+    </data>
+    <question anscol="A1" answer_style="multipleChoice" answer_type="(symbol-sentence)*3" id="Q2" knowledge_type="KS" minimal="yes">
+      <label>問１</label>
+      <instruction>
+         下線部<ref comment="" target="U1">(a)</ref>の概要を記述した次の文章中の <label>ア</label> ～ <label>ウ</label> に入る語句の組合せとして最も適当なものを，以下の①～⑧のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A1">１</ansColumn><br/>
+      <data id="D6" type="text">
+        <br/> 日本の裁判員制度とは，国政選挙の有権者から <blank id="B1"><label>ア</label></blank> 選ばれた裁判員が <blank id="B2"><label>イ</label></blank> について，裁判官と共に事実を認定し，評決をする制度である。裁判員に選ばれた者は正当な理由がない限り辞退することはできないが，学生などには一般に辞退が認められている。裁判員には審理への出頭義務や <blank id="B3"><label>ウ</label></blank> が課せられ，これらの義務違反に対しては罰則も設けられている。<br/>
+      </data>
+      <br/>
+      <choices anscol="A1" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum><ref comment="" target="B1">ア</ref> 選挙によって <ref comment="" target="B2">イ</ref> すべての刑事事件 <ref comment="" target="B3">ウ</ref> 氏名の公表義務<br/>
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum><ref comment="" target="B1">ア</ref> 選挙によって <ref comment="" target="B2">イ</ref> すべての刑事事件 <ref comment="" target="B3">ウ</ref> 守秘義務<br/>
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum><ref comment="" target="B1">ア</ref> 選挙によって <ref comment="" target="B2">イ</ref> 特定の刑事事件 <ref comment="" target="B3">ウ</ref> 氏名の公表義務<br/>
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum><ref comment="" target="B1">ア</ref> 選挙によって <ref comment="" target="B2">イ</ref> 特定の刑事事件 <ref comment="" target="B3">ウ</ref> 守秘義務<br/>
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum><ref comment="" target="B1">ア</ref> 無作為に <ref comment="" target="B2">イ</ref> すべての刑事事件 <ref comment="" target="B3">ウ</ref> 氏名の公表義務<br/>
+        </choice>
+        <choice ansnum="6">
+          <cNum>⑥</cNum><ref comment="" target="B1">ア</ref> 無作為に <ref comment="" target="B2">イ</ref> すべての刑事事件 <ref comment="" target="B3">ウ</ref> 守秘義務<br/>
+        </choice>
+        <choice ansnum="7">
+          <cNum>⑦</cNum><ref comment="" target="B1">ア</ref> 無作為に <ref comment="" target="B2">イ</ref> 特定の刑事事件 <ref comment="" target="B3">ウ</ref> 氏名の公表義務<br/>
+        </choice>
+        <choice ansnum="8">
+          <cNum>⑧</cNum><ref comment="" target="B1">ア</ref> 無作為に <ref comment="" target="B2">イ</ref> 特定の刑事事件 <ref comment="" target="B3">ウ</ref> 守秘義務<br/>
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A2" answer_style="multipleChoice" answer_type="sentence" id="Q3" knowledge_type="KS" minimal="yes">
+      <label>問２</label>
+      <instruction>
+         下線部<ref comment="" target="U2">(b)</ref>に関して，日本の状況の説明として適当でないものを，次の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A2">２</ansColumn><br/>
+      <choices anscol="A2" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 検察審査会は，抽選によって選ばれた国民によって構成され，検察官の不起訴処分の是非について審査する。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 裁判の傍聴は国民の権利であるが，プライバシーの権利を保障するため，刑事事件については，法廷でメモを取ることは許されていない。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 最高裁判所の裁判官に対する国民審査が憲法上認められているが，この制度により罷免された裁判官はいない。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 犯罪被害者の権利・利益を保護するため，刑事事件において被害者が直接被告人に質問することを認める制度が導入されている。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A3" answer_style="multipleChoice" answer_type="sentence" id="Q4" knowledge_type="KS" minimal="yes">
+      <label>問３</label>
+      <instruction>
+         下線部<ref comment="" target="U3">(c)</ref>やそれへの対策に関する記述として適当でないものを，次の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A3">３</ansColumn><br/>
+      <choices anscol="A3" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 裁判官の独立を保障するため，最高裁判所が下級裁判所の裁判官の任命に関与することは法的に禁止されている。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 国民の司法へのアクセスを促進するために，法曹人口を増やすなどの司法制度改革が進められている。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 冤罪に問われた人を救済するため，無罪とすべき明らかな証拠が新たに発見された場合などに，再審を請求することを認める制度が設けられている。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 裁判に時間がかかり過ぎるとの指摘がなされており，裁判の迅速化を進めるための法律を制定するなどの改革が行われている。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A4" answer_style="multipleChoice" answer_type="sentence" id="Q5" knowledge_type="KS" minimal="yes">
+      <label>問４</label>
+      <instruction>
+         下線部<ref comment="" target="U4">(d)</ref>に関して，日本の状況の説明として最も適当なものを，次の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A4">４</ansColumn><br/>
+      <choices anscol="A4" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 憲法には生存権が明記されており，最高裁判所は，これを直接の根拠として，国民は国に社会保障給付を請求することができるとした。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 名誉を毀損する行為の禁止が，表現の自由に対する制約として認められるように，人権であっても，他者を害する場合等には制約されることがある。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 最高裁判所は，裁判所による雑誌の発売前の差止めが，憲法で明示的に禁止されている検閲に該当すると判断した。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 在外投票は外国に居住している国民の選挙権を保障するための手段であるが，日本の国政選挙で実施されたことはなく，制度導入が求められている。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A5" answer_style="multipleChoice" answer_type="sentence" id="Q6" knowledge_type="KS" minimal="yes">
+      <label>問５</label>
+      <instruction>
+         下線部<ref comment="" target="U5">(e)</ref>に関連して，民主主義と司法権に関する記述として最も適当なものを，次の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A5">５</ansColumn><br/>
+      <choices anscol="A5" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 日本国憲法は違憲審査の制度を設けており，最高裁判所だけでなくすべての下級裁判所が違憲審査権を行使することができる。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 日本国憲法は国民主権を採っているため，国会の制定する法律に基づく政治が行われていれば，「法の支配」に一切反しないとされる。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 大日本帝国憲法は天皇主権をすべてに優越する基本原理としていたが，同時に，裁判所が法律に対して違憲審査権を行使することも認めていた。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 大日本帝国憲法は「臣民の権利」を保障しており，帝国議会が法律によってこれを制限することは一切できないとされていた。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

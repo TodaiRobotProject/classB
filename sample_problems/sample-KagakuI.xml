@@ -1,0 +1,200 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+
+<exam source="National Center For University Entrance Examination" subject="KagakuI(main exam)" year="2009">
+  Center-2009--Main-KagakuI<br/>
+  <title>
+    2009年度 本試験 化学Ⅰ<br/><br/>
+  </title>
+   必要があれば，原子量は次の値を使うこと。<br/> H 1.0 C 12 N 14 O 16 Na 23 S 32 Cu また，問題文中の体積の単位記号Ｌは，リットルを表す。<br/><br/>
+  <question id="Q1" minimal="no">
+    <label>【１】</label>
+    <instruction>
+      <br/><br/> 次の問い(問１～６)に答えよ。<br/>
+    </instruction>
+    (配点 25)<br/>
+    <question id="Q2" minimal="no">
+      <label>問１</label>
+      <instruction>
+         次の<ref target="L1">ａ</ref>・<ref comment="" target="L2">ｂ</ref>に当てはまるものを，それぞれの解答群の①～⑤のうちから一つずつ選べ。<br/>
+      </instruction>
+      <question anscol="A11" answer_style="multipleChoice" answer_type="term_other" id="Q36" knowledge_type="KS,DM_C1" minimal="yes">
+        <data id="D7" type="text">
+          <br/><lText id="L1"><label>ａ</label> 分子からなる物質</lText>
+        </data>
+        <ansColumn id="A11">１</ansColumn><br/>
+        <choices anscol="A11" comment="">
+          <choice ansnum="1">
+            <cNum>①</cNum> 亜 鉛 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> 塩化水素 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> 塩化ナトリウム 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> 炭酸水素ナトリウム 
+          </choice>
+          <choice ansnum="5">
+            <cNum>⑤</cNum> ミョウバン 
+          </choice>
+          <br/>
+        </choices>
+      </question>
+      <question anscol="A12" answer_style="multipleChoice" answer_type="term_other" id="Q37" knowledge_type="KS,DM_C1" minimal="yes">
+        <data id="D6" type="text">
+          <lText id="L2"><label>ｂ</label> 二重結合をもたない分子</lText>
+        </data>
+        <ansColumn id="A12">２</ansColumn><br/>
+        <choices anscol="A12" comment="">
+          <choice ansnum="1">
+            <cNum>①</cNum> 二酸化炭素 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> 酢 酸 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> アセトアルデヒド 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> エタノール 
+          </choice>
+          <choice ansnum="5">
+            <cNum>⑤</cNum> プロペン(プロピレン) 
+          </choice>
+          <br/>
+        </choices>
+      </question>
+    </question>
+    <question anscol="A13" answer_style="multipleChoice" answer_type="sentence" id="Q3" knowledge_type="KS,DM_C1" minimal="yes">
+      <label>問２</label>
+      <instruction>
+         二つの原子が互いに同位体であることを示す記述として正しいものを，次の①～⑤のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A13">３</ansColumn><br/>
+      <choices anscol="A13" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 陽子の数は等しいが，質量数が異なる。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 陽子の数は異なるが，質量数が等しい。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 陽子の数と中性子の数の和が等しい。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 中性子の数は異なるが，質量数が等しい。 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 中性子の数は等しいが，質量数が異なる。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A14" answer_style="multipleChoice" answer_type="sentence" id="Q4" knowledge_type="KS,DM_C1" minimal="yes">
+      <label>問３</label>
+      <instruction>
+         イオンに関する記述として誤りを含むものを，次の①～⑤のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A14">４</ansColumn><br/>
+      <choices anscol="A14" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> イオン化エネルギー(第一イオン化エネルギー)は，原子から電子を１個取り去って陽イオンにするのに必要な最小のエネルギーである。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> イオン結晶に含まれる陽イオンの数と陰イオンの数は，必ず等しい。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 塩素原子は，電子を受け取って１価の陰イオンになりやすい。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> ナトリウムイオンは，ネオン原子と同じ電子配置をもつ。 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> イオン結合は，陽イオンと陰イオンの静電気的な引力による結合である。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A15" answer_style="multipleChoice" answer_type="sentence" id="Q5" knowledge_type="KS,DM_C1" minimal="yes">
+      <label>問４</label>
+      <instruction>
+         標準状態における体積が最も大きいものを，次の①～⑤のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A15">５</ansColumn><br/>
+      <choices anscol="A15" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 2.0gの<formula>H2</formula>
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 標準状態で20ＬのHe 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 88gの<formula>CO2</formula>
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 28gの<formula>N2</formula>と標準状態で5.6Ｌの<formula>O2</formula>との混合気体 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 2.5molの<formula>CH4</formula>
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A16" answer_style="multipleChoice" answer_type="formula" id="Q6" knowledge_type="KS,DM_C1" minimal="yes">
+      <label>問５</label>
+      <instruction>
+         質量パーセント濃度8.0％の水酸化ナトリウム水溶液の密度は1.1<formula>g/cm3</formula>である。この溶液100<formula>cm3</formula>に含まれる水酸化ナトリウムの物質量は何molか。最も適当な数値を，次の①～⑥のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A16">６</ansColumn> mol<br/>
+      <choices anscol="A16" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 0.18 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 0.20 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 0.22 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 0.32 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 0.35 
+        </choice>
+        <choice ansnum="6">
+          <cNum>⑥</cNum> 0.38 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A17" answer_style="multipleChoice" answer_type="sentence" id="Q7" knowledge_type="KS,DM_C3" minimal="yes">
+      <label>問６</label>
+      <instruction>
+         身の回りの現象や物質・製品に関する記述として下線部に誤りを含むものを，次の①～⑤のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A17">７</ansColumn><br/>
+      <choices anscol="A17" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 鉄粉を用いている使い捨てカイロは，空気中で発熱する。これは，<uText id="U6">鉄が酸化されるため</uText>である。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 火山地帯や温泉では，卵の腐ったようなにおい(腐卵臭)がすることがある。<uText id="U7">これは硫化水素のにおいである</uText>。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 炭酸飲料をコップに入れて室温に放置すると，しだいに発泡しなくなる。これは，<uText id="U8">飲料中に溶解している二酸化炭素の量が減少するため</uText>である。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> セッケンの洗浄力は硬水中では低下する。これは，<uText id="U9">セッケンがNa＋と反応して水に溶けにくい塩をつくるため</uText>である。 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 希ガスは電球の封入ガスに使われる。これは，<uText id="U10">希ガスが他の物質と反応しにくいため</uText>である。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

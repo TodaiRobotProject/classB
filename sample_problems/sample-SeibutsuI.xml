@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+<exam source="National Center For University Entrance Examination" subject="SeibutsuI(main exam)" year="2009">
+  Center-2009--Main-SeibutsuI<br/>
+  <title>
+    2009年度 本試験 生物Ⅰ<br/>
+    <br/>
+  </title>
+  <question id="Q1" minimal="no">
+    <label>【１】</label>
+    <instruction>
+      <br/>
+      <br/>
+       多細胞生物の個体の形成に関する次の文章を読み，以下の問い(問１～４)に答えよ。<br/>
+    </instruction>
+    (配点 20)<br/>
+    <data id="D8" type="text">
+      多細胞生物の体が形作られる際には，<uText id="U1"><label>ア</label>受精卵から体細胞分裂によって細胞数が増える</uText>ことが必要である。これに加えて，体細胞分裂の方向は，体の形を決めるのに重要なはたらきをもつ。<br/>
+       また，<uText id="U2"><label>イ</label>個々の細胞が特定の時期，場所で分化する</uText>ことによって，<uText id="U3"><label>ウ</label>異なる機能をもつ様々な細胞ができる</uText>。こうした細胞は，似たはたらきと形状をもつものが集まって <blank id="B1"><label>エ</label></blank> を形成する。さらに複数の <ref comment="" target="B1">エ</ref> が相互に関連をもってまとまることで，高度な機能をもつ <blank id="B2"><label>オ</label></blank> となる。ほ乳類などの動物では，複数の <ref comment="" target="B2">オ</ref> が集まって一連のはたらきを分担して受けもつ <blank id="B3"><label>カ</label></blank> をつくる。<br/>
+    </data>
+    <br/>
+    <question anscol="A11 A12 A13" answer_style="multipleChoice" answer_type="term_other" id="Q2" knowledge_type="KS" minimal="yes">
+      <label>問１</label>
+      <instruction>
+        <ref comment="" target="B1">エ</ref> ～ <ref comment="" target="B3">カ</ref> に入る語として最も適当なものを，次の①～⑦のうちからそれぞれ一つずつ選べ。<br/>
+      </instruction>
+      <ref target="B1">エ</ref><ansColumn id="A11">１</ansColumn><ref comment="" target="B2">オ</ref><ansColumn id="A12">２</ansColumn><ref comment="" target="B3">カ</ref><ansColumn id="A13">３</ansColumn><br/>
+      <choices anscol="A11 A12 A13" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 細胞系 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 群 体 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 器 官 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 器官系 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 組 織 
+        </choice>
+        <choice ansnum="6">
+          <cNum>⑥</cNum> 組織系 
+        </choice>
+        <choice ansnum="7">
+          <cNum>⑦</cNum> 個 体 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A16" answer_style="multipleChoice" answer_type="term_other" id="Q4" knowledge_type="KS" minimal="yes">
+      <label>問３</label>
+      <instruction>
+         下線部<ref comment="" target="U2">イ</ref>に関連して，多細胞生物の発生過程では，一部の細胞が死ぬことによって特定の機能をもつ構造を形成する場合がある。植物において，こうしてつくられる構造として最も適当なものを，次の①～⑤のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A16">６</ansColumn><br/>
+      <choices anscol="A16" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 根 毛 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 柱 頭 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 師 管 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 道 管 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 気 孔 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A17" answer_style="multipleChoice" answer_type="sentence" id="Q5" knowledge_type="KS" minimal="yes">
+      <label>問４</label>
+      <instruction>
+         下線部<ref comment="" target="U3">ウ</ref>に関して，分化した細胞の機能や形態，構造についての記述として最も適当なものを，次の①～⑥のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A17">７</ansColumn><br/>
+      <choices anscol="A17" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 消化酵素などを分泌する外分泌腺の腺細胞は，ゴルジ体が発達した細胞であり，血管を取り囲むような閉じた袋の内側に並んでいる。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> ヒト内耳の半規管には感覚毛というべん毛をもつ細胞が存在し，このべん毛がおおい膜とこすれることで，基底膜の振動を音として感知する。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 神経の軸索の末端には，興奮を伝達するための神経伝達物質をためたシナプス小胞という特殊な構造体が含まれる。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> ほ乳類の骨細胞は，その細胞質に多量のカルシウムを含み，かつ，細胞同士が密に集まることで骨の機械的な強度を保っている。 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 被子植物の表皮細胞のほとんどは，孔辺細胞にみられるように，光合成を行うための葉緑体をもつ。 
+        </choice>
+        <choice ansnum="6">
+          <cNum>⑥</cNum> 動物の運動を担う筋肉細胞では，筋原繊維に加えて，運動に必要な酸素を盛んに発生するミトコンドリアが発達している。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

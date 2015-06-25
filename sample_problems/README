@@ -1,0 +1,16 @@
+センター試験サンプル
+
+このディレクトリには以下のファイルが含まれています．
+answertable/		: 正答表ファイル
+sample-Eigo_hikki.xml	: 2009年度センター試験本試験 英語(筆記) 大問1
+sample-KagakuI.xml	: 2009年度センター試験本試験 化学I 大問1
+sample-NihonshiA.xml	: 2009年度センター試験本試験 日本史A 大問5
+sample-SeibutsuI.xml	: 2009年度センター試験本試験 生物I 大問1 (ただし問2を除く)
+sample-SekaishiB.xml	: 2009年度センター試験本試験 世界史B 大問1
+sample-ButsuriI.xml	: 2009年度センター試験本試験 物理I 大問1 (ただし問1のみ)
+sample-Gendaishakai.xml	: 2009年度センター試験本試験 現代社会 大問1
+sample-Kokugo.xml	: 2009年度センター試験本試験 国語 大問3
+sample-Rinri.xml	: 2009年度センター試験本試験 倫理 大問1 (ただし問1を除く)
+sample-Seijikeizai.xml	: 2009年度センター試験本試験 政治経済 大問2
+
+answertableディレクトリには問題と同盟の正答表XMLが置いてあります．

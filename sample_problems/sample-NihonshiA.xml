@@ -1,0 +1,380 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+<exam source="National Center For University Entrance Examination" subject="NihonshiA(main exam)" year="2009">
+  Center-2009--Main-NihonshiA<br/>
+  <title>
+    2009年度 本試験 日本史Ａ<br/>
+    <br/>
+  </title>
+  <question id="Q23" minimal="no">
+    <label>【５】</label>
+    <instruction>
+      <br/>
+      <br/>
+       近代日本における代表的な外交官の一人であり，政治家としても活動した幣原喜重郎に関する次の文章Ａ～Ｃを読み，以下の問い(問１～８)に答えよ。<br/>
+    </instruction>
+    (配点 23)<br/>
+    <data id="D4" type="text">
+      <label>Ａ</label>
+      <br/>
+       1872年，現在の大阪府門真市に生まれた幣原は，大学卒業後外務省に入省し，外交官としての経験を重ねた。第一次世界大戦下において外務次官に就任し，その後の内閣において<uText id="U14">
+        <label>(a)</label>ロシア革命に対する日本軍の介入</uText>の事後処理などに従事した。その後駐米大使としてアメリカに赴任した幣原は，ワシントンで実施された国際会議において全権の一人として出席し，<uText id="U15">
+        <label>(b)</label>海軍軍縮</uText>および中国大陸・太平洋における列強諸国との権益調整に尽力した。<br/>
+      <br/>
+    </data>
+    <question anscol="A19" answer_style="multipleChoice" answer_type="(symbol-TF)*2" id="Q24" knowledge_type="KS" minimal="yes">
+      <label>問１</label>
+      <instruction>
+         下線部<ref comment="" target="U14">(a)</ref>に関して述べた次の文<ref comment="" target="L27">Ｘ</ref>・<ref target="L28">Ｙ</ref>について，その正誤の組合せとして正しいものを，以下の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A19">19</ansColumn>
+      <br/>
+      <data id="D18" type="text">
+        <lText id="L27">
+          <label>Ｘ</label> 日本は，イギリスなど他の派兵国よりも長期にわたって介入を継続した。<br/>
+        </lText>
+        <lText id="L28">
+          <label>Ｙ</label> この軍事介入の影響で，国内の米価が下落し，困窮した農民が全国で騒擾を起こした。<br/>
+        </lText>
+      </data>
+      <choices anscol="A19" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum>
+          <ref comment="" target="L27">Ｘ</ref> 正 <ref comment="" target="L28">Ｙ</ref> 正 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum>
+          <ref comment="" target="L27">Ｘ</ref> 正 <ref comment="" target="L28">Ｙ</ref> 誤 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum>
+          <ref comment="" target="L27">Ｘ</ref> 誤 <ref comment="" target="L28">Ｙ</ref> 正 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum>
+          <ref comment="" target="L27">Ｘ</ref> 誤 <ref comment="" target="L28">Ｙ</ref> 誤 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A20" answer_style="multipleChoice" answer_type="o(symbol-symbol-symbol)" id="Q25" knowledge_type="KS" minimal="yes">
+      <label>問２</label>
+      <instruction>
+         下線部<ref comment="" target="U15">(b)</ref>に関して述べた次の文<ref comment="" target="L29">Ⅰ</ref>～<ref target="L31">Ⅲ</ref>について，古いものから年代順に正しく配列したものを，以下の①～⑥のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A20">20</ansColumn>
+      <br/>
+      <data id="D19" type="text">
+        <lText id="L29">
+          <label>Ⅰ</label> 国策の手段としての戦争の放棄を約した不戦条約に調印した。<br/>
+        </lText>
+        <lText id="L30">
+          <label>Ⅱ</label> 補助艦の総保有量(トン数)を英・米の約７割とすることに合意した。<br/>
+        </lText>
+        <lText id="L31">
+          <label>Ⅲ</label> 主力艦保有量(トン数)を英・米の５分の３に制限することに合意した。<br/>
+        </lText>
+      </data>
+      <choices anscol="A20" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum>
+          <ref comment="" target="L29">Ⅰ</ref>−<ref comment="" target="L30">Ⅱ</ref>−<ref comment="" target="L31">Ⅲ</ref>
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum>
+          <ref comment="" target="L29">Ⅰ</ref>−<ref comment="" target="L31">Ⅲ</ref>−<ref comment="" target="L30">Ⅱ</ref>
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum>
+          <ref comment="" target="L30">Ⅱ</ref>−<ref comment="" target="L29">Ⅰ</ref>−<ref comment="" target="L31">Ⅲ</ref>
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum>
+          <ref comment="" target="L30">Ⅱ</ref>−<ref comment="" target="L31">Ⅲ</ref>−<ref comment="" target="L29">Ⅰ</ref>
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum>
+          <ref comment="" target="L31">Ⅲ</ref>−<ref comment="" target="L29">Ⅰ</ref>−<ref comment="" target="L30">Ⅱ</ref>
+        </choice>
+        <choice ansnum="6">
+          <cNum>⑥</cNum>
+          <ref comment="" target="L31">Ⅲ</ref>−<ref comment="" target="L30">Ⅱ</ref>−<ref comment="" target="L29">Ⅰ</ref>
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <data id="D5" type="text">
+      <label>Ｂ</label>
+      <br/>
+      <uText id="U16">
+        <label>(c)</label>幣原が外務大臣として活躍した期間は，一時の中断をはさんで1924年から1931年までの長期にわたる</uText>が，その間の外交方針はほぼ一貫しており<uText id="U17">
+        <label>(d)</label>「幣原外交」</uText>とよばれた。軍縮条約への取組みなどにこうした姿勢は顕著である。しかしこのような幣原の外交方針は，対立勢力や<uText id="U18">
+        <label>(e)</label>中国における日本軍の行動</uText>によって妨げられることになる。最終的に1931年，陸軍が中国東北部で起こした軍事行動などによって，幣原の外交路線は挫折した。<br/>
+      <br/>
+    </data>
+    <question anscol="A21" answer_style="multipleChoice" answer_type="(symbol-TF)*2" id="Q26" knowledge_type="KS,IC_T" minimal="yes">
+      <label>問３</label>
+      <instruction>
+         下線部<ref comment="" target="U16">(c)</ref>に関連して，1920年代の日本は国内で社会運動が活発化した時期としても知られている。次の<ref target="D31">表</ref>を参考にしながら，この時期に農村で起こった小作争議に関して述べた以下の文<ref comment="" target="L32">Ｘ</ref>・<ref target="L33">Ｙ</ref>について，その正誤の組合せとして正しいものを，以下の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A21">21</ansColumn>
+      <br/>
+      <br/>
+      <data id="D20" type="complex">
+        <data id="D31" type="table">
+          <label>小作争議の件数と規模<br/>
+          </label>
+          <tbl>
+            <row>
+              <cell>項目<br/>
+               年</cell>
+              <cell>小作争議件数<br/>
+               Ａ </cell>
+              <cell>参加小作人数<br/>
+               Ｂ</cell>
+              <cell>１件当りの参加小作人数Ｂ/Ａ<br/>
+              </cell>
+            </row>
+            <row>
+              <cell>1920年</cell>
+              <cell>408</cell>
+              <cell>34,605</cell>
+              <cell>84.8<br/>
+              </cell>
+            </row>
+            <row>
+              <cell>1922年</cell>
+              <cell>1,578</cell>
+              <cell>125,750</cell>
+              <cell>79.7<br/>
+              </cell>
+            </row>
+            <row>
+              <cell>1924年</cell>
+              <cell>1,532</cell>
+              <cell>110,920</cell>
+              <cell>72.4<br/>
+              </cell>
+            </row>
+            <row>
+              <cell>1926年</cell>
+              <cell>2,751</cell>
+              <cell>151,061</cell>
+              <cell>54.9<br/>
+              </cell>
+            </row>
+            <row>
+              <cell>1928年</cell>
+              <cell>1,866</cell>
+              <cell>75,136</cell>
+              <cell>40.3<br/>
+              </cell>
+            </row>
+            <row>
+              <cell>1930年</cell>
+              <cell>2,478</cell>
+              <cell>58,565</cell>
+              <cell>23.6<br/>
+              </cell>
+            </row>
+            <row>
+              <cell>1932年</cell>
+              <cell>3,414</cell>
+              <cell>61,499</cell>
+              <cell>18.0<br/>
+              </cell>
+            </row>
+          </tbl>
+        </data>
+        <source>(安藤良雄編『近代日本経済史要覧(第２版)』より作成)<br/>
+        </source>
+        <br/>
+        <lText id="L32">
+          <label>Ｘ</label> 普通選挙法が成立した前後の両年を比較すると，小作争議件数は増加をみせたが，その後は一時的に減少した。<br/>
+        </lText>
+        <lText id="L33">
+          <label>Ｙ</label> 世界恐慌の影響が日本に波及した結果，困窮した農民による個々の争議が大規模化する傾向がみられた。<br/>
+        </lText>
+      </data>
+      <choices anscol="A21" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum>
+          <ref comment="" target="L32">Ｘ</ref> 正 <ref comment="" target="L33">Ｙ</ref> 正 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum>
+          <ref comment="" target="L32">Ｘ</ref> 正 <ref comment="" target="L33">Ｙ</ref> 誤 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum>
+          <ref comment="" target="L32">Ｘ</ref> 誤 <ref comment="" target="L33">Ｙ</ref> 正 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum>
+          <ref comment="" target="L32">Ｘ</ref> 誤 <ref comment="" target="L33">Ｙ</ref> 誤 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A22" answer_style="multipleChoice" answer_type="sentence" id="Q27" knowledge_type="KS" minimal="yes">
+      <label>問４</label>
+      <instruction>
+         下線部<ref comment="" target="U17">(d)</ref>に関連して，幣原が外務大臣として推進した外交政策について述べた文として正しいものを，次の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A22">22</ansColumn>
+      <br/>
+      <choices anscol="A22" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 米・英との協調のため，南満州鉄道株式会社の解散を決定した。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 中国国民革命軍の北伐に対抗して，山東半島に出兵した。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 日ソ基本条約を締結し，ソ連との間に国交を樹立した。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 東アジアの結束を誇示するため大東亜会議を開催した。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A23" answer_style="multipleChoice" answer_type="o(symbol-symbol-symbol)" id="Q28" knowledge_type="KS" minimal="yes">
+      <label>問５</label>
+      <instruction>
+         下線部<ref comment="" target="U18">(e)</ref>に関連して，1920年代から30年代にかけての日本軍の国外活動に関して述べた次の文<ref comment="" target="L34">Ⅰ</ref>～<ref target="L36">Ⅲ</ref>について，古いものから年代順に正しく配列したものを，以下の①～⑥のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A23">23</ansColumn>
+      <br/>
+      <data id="D21" type="text">
+        <lText id="L34">
+          <label>Ⅰ</label> 日本軍が中国の都市南京を占領するに際して，捕虜や非戦闘員を殺害する事件が起きた。<br/>
+        </lText>
+        <lText id="L35">
+          <label>Ⅱ</label> 中国東北部での日本軍の活動に対して，国際連盟からリットン調査団が派遣された。<br/>
+        </lText>
+        <lText id="L36">
+          <label>Ⅲ</label> 関東軍参謀河本大作らが，中国軍閥の一人である張作霖を，奉天郊外において爆殺した。<br/>
+        </lText>
+      </data>
+      <choices anscol="A23" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum>
+          <ref comment="" target="L34">Ⅰ</ref>−<ref comment="" target="L35">Ⅱ</ref>−<ref comment="" target="L36">Ⅲ</ref>
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum>
+          <ref comment="" target="L34">Ⅰ</ref>−<ref comment="" target="L36">Ⅲ</ref>−<ref comment="" target="L35">Ⅱ</ref>
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum>
+          <ref comment="" target="L35">Ⅱ</ref>−<ref comment="" target="L34">Ⅰ</ref>−<ref comment="" target="L36">Ⅲ</ref>
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum>
+          <ref comment="" target="L35">Ⅱ</ref>−<ref comment="" target="L36">Ⅲ</ref>−<ref comment="" target="L34">Ⅰ</ref>
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum>
+          <ref comment="" target="L36">Ⅲ</ref>−<ref comment="" target="L34">Ⅰ</ref>−<ref comment="" target="L35">Ⅱ</ref>
+        </choice>
+        <choice ansnum="6">
+          <cNum>⑥</cNum>
+          <ref comment="" target="L36">Ⅲ</ref>−<ref comment="" target="L35">Ⅱ</ref>−<ref comment="" target="L34">Ⅰ</ref>
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <data id="D7" type="text">
+      <label>Ｃ</label>
+      <br/>
+       戦後，幣原は知米家としての経歴を買われ，内閣総理大臣に就任した。幣原内閣は連合国軍最高司令官総司令部(GHQ)のいわゆる五大改革指令の実現に取り組んだほか，新憲法草案の作成や天皇の神格を否定する詔書の草案作成にも携わるなど，<uText id="U19">
+        <label>(f)</label>戦後改革の中心的な政策</uText>を次々と実施した内閣であったといえる。また，<uText id="U20">
+        <label>(g)</label>終戦直後の物価上昇や食糧危機への対策</uText>にもつとめたが，1946年４月に実施された戦後初の総選挙において勝利することができず，総辞職した。幣原は，その後も衆議院議長などを歴任し，1951年３月に78歳で没した。<uText id="U21">
+        <label>(h)</label>講和条約が調印される</uText>約半年前のことであった。<br/>
+      <br/>
+    </data>
+    <question anscol="A24" answer_style="multipleChoice" answer_type="sentence" id="Q29" knowledge_type="KS" minimal="yes">
+      <label>問６</label>
+      <instruction>
+         下線部<ref comment="" target="U19">(f)</ref>に関連して，戦後改革期に実施された諸施策について述べた文として誤っているものを，次の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A24">24</ansColumn>
+      <br/>
+      <choices anscol="A24" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> GHQにより労働組合の結成が奨励され，労働条件改善を目的とする労働基準法が制定された。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 特別高等警察の廃止や，共産党員などの政治犯の釈放が行われた。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 経済機構の民主化の一環として，独占禁止法が制定された。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> GHQにより教育制度の自由主義的改革が指示され，修身教育が導入された。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A25" answer_style="multipleChoice" answer_type="(symbol-TF)*2" id="Q30" knowledge_type="KS" minimal="yes">
+      <label>問７</label>
+      <instruction>
+         下線部<ref comment="" target="U20">(g)</ref>に関連して，戦後改革期における経済対策に関して述べた次の文<ref comment="" target="L37">Ｘ</ref>・<ref target="L38">Ｙ</ref>について，その正誤の組合せとして正しいものを，以下の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A25">25</ansColumn>
+      <data id="D22" type="text">
+        <lText id="L37">
+          <br/>
+          <label>Ｘ</label> 降伏と同時に食糧の配給制度が全面的に廃止され，価格の統制も撤廃された。<br/>
+        </lText>
+        <lText id="L38">
+          <label>Ｙ</label> 物価上昇を抑制するため，金融緊急措置令によって国民の預金が封鎖された。<br/>
+        </lText>
+      </data>
+      <choices anscol="A25" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum>
+          <ref comment="" target="L37">Ｘ</ref> 正 <ref comment="" target="L38">Ｙ</ref> 正 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum>
+          <ref comment="" target="L37">Ｘ</ref> 正 <ref comment="" target="L38">Ｙ</ref> 誤 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum>
+          <ref comment="" target="L37">Ｘ</ref> 誤 <ref comment="" target="L38">Ｙ</ref> 正 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum>
+          <ref comment="" target="L37">Ｘ</ref> 誤 <ref comment="" target="L38">Ｙ</ref> 誤 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A26" answer_style="multipleChoice" answer_type="sentence" id="Q31" knowledge_type="KS" minimal="yes">
+      <label>問８</label>
+      <instruction>
+         下線部<ref comment="" target="U21">(h)</ref>に関して述べた文として正しいものを，次の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A26">26</ansColumn>
+      <br/>
+      <choices anscol="A26" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> この条約調印と同時に小笠原諸島が返還された。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> この条約調印をきっかけとして，警察予備隊が発足した。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> この条約の調印と同じ日に，日米安全保障条約が調印された。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> この条約の調印には，ソ連を除くすべての交戦国が参加した。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

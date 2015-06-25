@@ -1,0 +1,199 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+<exam source="National Center For University Entrance Examination" subject="Eigo_hikki(main exam)" year="2009">
+  ﻿Center-2009--Main-Eigo_hikki<br/>
+  <title>
+    2009年度 本試験 英語(筆記)<br/>
+    <br/>
+  </title>
+  <question id="Q1" minimal="no">
+    <label>【１】</label>
+    <instruction>
+      <br/>
+      <br/>
+       次の問い(Ａ～Ｄ)に答えよ。<br/>
+    </instruction>
+     (配点 16)<br/>
+    <question id="Q2" minimal="no">
+      <label>Ａ</label>
+      <instruction>
+         次の問い(問１～３)において，下線部の発音が，ほかの三つの場合と異なるものを，それぞれ以下の①～④のうちから一つずつ選べ。<br/>
+      </instruction>
+      <br/>
+      <question anscol="A1" answer_style="multipleChoice" answer_type="orthography" id="Q3" knowledge_type="PRN" minimal="yes">
+        <label>問１</label>
+        <data id="D0" type="text">
+          <ansColumn id="A1">1</ansColumn>
+          <br/>
+        </data>
+        <choices anscol="A1" comment="">
+          <choice ansnum="1">
+            <cNum>①</cNum> abs<uText id="U1">or</uText>b 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> comf<uText id="U2">or</uText>t 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> f<uText id="U3">or</uText>mal 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> newb<uText id="U4">or</uText>n 
+          </choice>
+          <br/>
+        </choices>
+      </question>
+      <question anscol="A2" answer_style="multipleChoice" answer_type="orthography" id="Q4" knowledge_type="PRN" minimal="yes">
+        <label>問２</label>
+        <data id="D1" type="text">
+          <ansColumn id="A2">2</ansColumn>
+          <br/>
+        </data>
+        <choices anscol="A2" comment="">
+          <choice ansnum="1">
+            <cNum>①</cNum> de<uText id="U5">b</uText>t 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> dou<uText id="U6">b</uText>t 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> su<uText id="U7">b</uText>title 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> su<uText id="U8">b</uText>tle 
+          </choice>
+          <br/>
+        </choices>
+      </question>
+      <question anscol="A3" answer_style="multipleChoice" answer_type="orthography" id="Q5" knowledge_type="PRN" minimal="yes">
+        <label>問３</label>
+        <data id="D2" type="text">
+          <ansColumn id="A3">3</ansColumn>
+          <br/>
+        </data>
+        <choices anscol="A3" comment="">
+          <choice ansnum="1">
+            <cNum>①</cNum> ea<uText id="U9">g</uText>er 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> fra<uText id="U10">g</uText>ile 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> gin<uText id="U11">g</uText>er 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> ur<uText id="U12">g</uText>ent 
+          </choice>
+          <br/>
+        </choices>
+      </question>
+    </question>
+    <question id="Q6" minimal="no">
+      <label>Ｂ</label>
+      <instruction>
+         次の問い(問１・問２)において，与えられた語と第一アクセント(第一強勢)の位置が同じ語を，それぞれ以下の①～④のうちから一つずつ選べ。<br/>
+      </instruction>
+      <br/>
+      <question anscol="A4" answer_style="multipleChoice" answer_type="orthography" id="Q7" knowledge_type="PRN" minimal="yes">
+        <label>問１</label>
+        <data id="D3" type="text">
+           accustom <ansColumn id="A4">4</ansColumn>
+          <br/>
+        </data>
+        <choices anscol="A4" comment="">
+          <choice ansnum="1">
+            <cNum>①</cNum> calendar 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> impression 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> operate 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> popular 
+          </choice>
+          <br/>
+        </choices>
+      </question>
+      <question anscol="A5" answer_style="multipleChoice" answer_type="orthography" id="Q8" knowledge_type="PRN" minimal="yes">
+        <label>問２</label>
+        <data id="D4" type="text">
+           transportation <ansColumn id="A5">5</ansColumn>
+          <br/>
+        </data>
+        <choices anscol="A5" comment="">
+          <choice ansnum="1">
+            <cNum>①</cNum> authority 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> experiment 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> fundamental 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> melancholy 
+          </choice>
+          <br/>
+        </choices>
+      </question>
+    </question>
+    <question anscol="A6" answer_style="multipleChoice" answer_type="sentence" id="Q53" knowledge_type="FOC_2" minimal="yes">
+      <label>Ｃ</label>
+      <instruction>
+         次の文において，話者が太字で示した語を特に強調して発音した場合，話者が伝えようとした意図はどれが最も適当か。以下の①～④のうちから一つ選べ。<br/>
+      </instruction>
+      <ansColumn id="A6">6</ansColumn>
+      <br/>
+      <br/>
+      <data id="D36" type="text">
+        Max's mother told him to do his <uText id="U13">math</uText> homework immediately.<br/>
+      </data>
+      <br/>
+      <choices anscol="A6">
+        <choice ansnum="1">
+          <cNum>①</cNum> It is this subject that should be done now. 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> It was not his father who urged Max to study. 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> Max tends to leave things until the last moment. 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> Max will not do anything without instructions. 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A7" answer_style="multipleChoice" answer_type="sentence" id="Q54" knowledge_type="FOC_1" minimal="yes">
+      <label>Ｄ</label>
+      <instruction>
+        次の下線を引いた文において，強く発音する部分を最も適当に示しているのはどれか。以下の①～④のうちから一つ選べ。強く発音する部分は●で示してある。
+      </instruction>
+      <ansColumn id="A7">7</ansColumn>
+      <br/>
+      <data id="D37" type="text">
+        <br/>
+         While holding down button C, press both D and F for five seconds. Oh, dear.<uText id="U14"> It's so complicated that I feel confused just reading the manual</uText>.<br/>
+        <br/>
+      </data>
+      <choices anscol="A7">
+        <choice ansnum="1">
+          <cNum>①</cNum> It's so complicated that I feel confused just reading the manual. 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> It's so complicated that I feel confused just reading the manual. 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> It's so complicated that I feel confused just reading the manual. 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> It's so complicated that I feel confused just reading the manual. 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

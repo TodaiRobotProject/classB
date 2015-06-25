@@ -1,0 +1,288 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+<exam source="National Center For University Entrance Examination" subject="Kokugo(main exam)" year="2009">
+  Center-2009--Main-Kokugo<br/>
+  <title>
+    2009年度 本試験 国語<br/>
+    <br/>
+  </title>
+  <question id="Q15" minimal="no">
+    <label>【三】</label><br/>
+    <br/>
+    <instruction>
+      次の文章は、<source>『一本菊』</source>の一節である。兵部卿宮は、菊の宴の折、兵衛佐の家にすばらしい菊があることを聞きつけ、その菊を献上させ、その由来を尋ねる。以下の文章は、それに続く場面である。これを読んで、後の問い(問１～６)に答えよ。<br/>
+       (配点 50)
+    </instruction>
+    <data id="D2" type="text">
+      <br/>
+       兵衛佐、申しけるは、「あれは父右大臣殿、<ref comment="" target="N18">(注１)</ref>鞍馬へ参り給ひしに、鞍馬の坊の前栽に、<ref comment="" target="N19">(注２)</ref>しんくはんもんの菊とて移し植ゑて候ひしを、わりなく請ひ取りて、家に伝へんとて植ゑ置きしを、父、はかなくなりて後、妹にて候ふ者、父が形見に見んとて惜しみ置きて候ふを、召しに従ひて参らせ<uText id="U55"><label>ａ</label>候ふ</uText>」と申せば、「妹は<ref comment="" target="N20">(注３)</ref>播磨の三位の腹、帥の局か」と問はせ給へば、「さは候はず。我と同じき<ref comment="" target="N21">(注４)</ref>式部卿宮の腹にて候ふ」と申しければ、宮、思し召しけるは、「いざや、今のもてなしにて、おぼえこそなけれども、院にもこの兵衛佐に並ぶ<ref comment="" target="N22">(注５)</ref>雲客もなきものを、まして、女にてかれが妹ならば、いかに<ref comment="" target="N23">(注６)</ref>いつくしからん。<uText id="U49"><label>(ア)</label>あはれ、見ばや</uText>」と、深く御心移りて、この兵部卿宮は、当帝の御腹異の御弟、よろづに御情け深く、この兵衛佐をも、常は御目をも掛けさせ給ひてあはれみ給ひける。<br/>
+       この君のこと、夜もすがら思ひ明かし給ひて、宮の御随身、常磐と申して髪容貌足らひて十四、五ばかりにてよろづ物馴れなる童を召して、「あの菊の枝、折りて参れ」と仰せありければ、朝ぼらけの露のしげきに、指貫の裾を取りて、菊を手折りて参りけり。宮、同じ色なる<ref comment="" target="N24">(注７)</ref>菊重ねの薄様に、かくなん、<br/>
+      <lText id="L4"><label>Ａ</label> 「わが心君が籬にうつろふはなほや残せる白菊の花<br/>
+      </lText> 菊の白露は置き添ふるより苦しきものを」と遊ばし、菊の枝に結びて、「兵衛佐の妹の住むらん方の、格子に挿して帰れ」と仰せありければ、常磐、もとよりこの内の子細、よく知りたる者にて、<ref comment="" target="N25">(注８)</ref>三条高倉に行き、この姫君のおはします西の対の、中格子に挿して帰りぬ。女房たち、御格子上げんとて、立ち出で、この花を取り、「これ御覧候へ。花に添へて、<uText id="U50"><label>(イ)</label>なべてならぬ匂ひ</uText>の薄様に、歌の書かれて候ふ、御覧ぜよ」とて、兵衛佐に、見せ参らせたりければ、見給ひて、「兵部卿宮の御手なり。こはいかに。宮の御手にてわたらせ給ふ。<uText id="U51"><label>(ウ)</label>いかにして思し召し寄りけるぞ</uText>。もとより、これこそ、あらまほしきことにてあれ。父母生きておはせば、今までかくてやおはすべき。今は、女御、后の位にもわたらせ給ふべきぞかし。この度、御文あるならば、御返事すすめ給へ。女房たち」とぞのたまひける。また昼ほどに、宮、常磐を御使にて、御文あり。<br/>
+      <lText id="L5"><label>Ｂ</label> 行き通ふ跡は知らねど<ref comment="" target="N26">(注９)</ref>逢坂の関は今こそ越えまほしけれ<br/>
+      </lText> 「この度は、あらはれての御返事を請へ」と仰せありければ、常磐、<uText id="U52"><label>ｂ</label>賜り</uText>て、三条へ行き、西の対にて、「これは兵部卿宮の御文よ」と言へば、女房たちは、「いかに。思ひ寄らず。人違へか。とくとく帰り給へ」と、取り入れず。むなしく帰りぬ。押し返しかくなん、<br/>
+      <lText id="L6"><label>Ｃ</label> 紅の<ref target="N27">(注１０)</ref>末摘花や我ならんふみかへさるる身こそつらけれ<br/>
+      </lText> と遊ばして遣はさるる。常磐、取りて行き、やうやうに言へども、出でず。答へもせず。常磐、幼き心地にねたくおぼえて申すやう、「<ref target="N28">(注１１)</ref>当時、我が君の御文なんどをめざましくして、もてなし給ふ便なさよ。取りだに入れさせ給へ」とて、<uText id="U53"><label>Ｘ</label>御簾うち上げて投げ入れぬ</uText>。されども御返事はなかりけり。その後、色々の薄様に様々の御心をくだきて、押し返し押し返し御文ひまなかりけれども、<ref target="N29">(注１２)</ref>行く水に数書く心地して、一度も御返事なかりけり。宮は、「ねたくも言ひけるものかな。よしよし、さらば、さてこそあらめ。とかく言はんほどに、母女御殿の御方へも、聞こえんこそ、恥づかしく思へ」なんど思せども、忘られず、御心弱きにつけても、情けのほどあらはれて、ただ一筋に思すなり。<br/>
+       かくて日数も経るほどに、宮の中、静かによろづものあはれなる昼つ方、常磐、幼き心に、宮の思し召し沈み給へるを、あはれに思ひ参らせ、間近く参りて、「やうやうさてこの御事は<ref target="N30">(注１３)</ref>しらけてやませ給ふべきか。常は行きて見るに、かひがひしくとがむべき侍なんども候はず。なかなか御文など候はんよりも、ただ押して入らせ給へかし。しかも今夜は兵衛佐殿、院中の御宿直、殿上に侍るなり。誰が車ともなく、あまた出で入り候へば、うち紛れさせ給ひて、車をば中門に忍び立てさせ給ひて、女房たち、大殿油などひしめき候はん紛れに、西の<ref target="N31">(注１４)</ref>妻戸の方より紛れ入らせ給ひて、灯火の白々となりて、よくよく<uText id="U54"><label>ｃ</label>御覧じ</uText>候ひて、御心につかせ給ひ候はば、紛れも入らせ給へかし」。宮は、さもあるべしと思し召して、殿上人のまねびをして、宮の中を忍び出でさせ給ひしかば、常磐、御供申しけり。<br/>
+      <br/>
+       (注) <br/>
+      <note id="N18">
+        １ 鞍馬——京の北方、鞍馬山にある鞍馬寺。「鞍馬の坊」は、鞍馬寺の中の僧の住まい。<br/>
+      </note>
+      <note id="N19">
+        ２ しんくはんもんの菊——菊の品種の一つ。<br/>
+      </note>
+      <note id="N20">
+        ３ 播磨の三位の腹、帥の局——播磨の三位を母とする帥の局。「播磨の三位」と「帥の局」は、ともに天皇に仕える女房の呼称。<br/>
+      </note>
+      <note id="N21">
+        ４ 式部卿宮の腹——式部卿宮の娘を母としていること。<br/>
+      </note>
+      <note id="N22">
+        ５ 雲客——殿上人の別称。<br/>
+      </note>
+      <note id="N23">
+        ６ いつくしからん——容姿が端正で美しいだろう。<br/>
+      </note>
+      <note id="N24">
+        ７ 菊重ねの薄様——上が白、下が青の二枚重ねの薄い上質の紙。<br/>
+      </note>
+      <note id="N25">
+        ８ 三条高倉——京の地名。三条大路と高倉小路の交差する辺り。<br/>
+      </note>
+      <note id="N26">
+        ９ 逢坂の関——現在の滋賀県の逢坂山にあった関所。<br/>
+      </note>
+      <note id="N27">
+        10 末摘花——紅花の異名。紅、黄紅色の花をつけることから、ここでは「紅の末摘花」で、恋心がはっきり顔色に出ることをいう。<br/>
+      </note>
+      <note id="N28">
+        11 当時——現在。<br/>
+      </note>
+      <note id="N29">
+        12 行く水に数書く——「行く水に数書くよりもはかなきは思はぬ人を思ふなりけり」(『古今和歌集』恋一・詠み人知らず)を踏まえており、苦労しても甲斐がないことのたとえ。<br/>
+      </note>
+      <note id="N30">
+        13 しらけて——気持ちが冷めて。<br/>
+      </note>
+      <note id="N31">
+        14 妻戸——建物の四隅にある両開きの板戸。<br/>
+      </note>
+      <br/>
+    </data>
+    <question answer_style="multipleChoice" id="Q16" minimal="yes">
+      <label>問１</label>
+      <instruction>
+         傍線部<ref target="U49">(ア)</ref>～<ref target="U51">(ウ)</ref>の解釈として最も適当なものを、次の各群①～⑤のうちから、それぞれ一つずつ選べ。
+      </instruction>
+      解答番号は ２１ ～ ２３ 。<br/>
+      <br/>
+      <question anscol="A21" answer_style="multipleChoice" answer_type="sentence" id="Q37" minimal="yes">
+        <label>(ア)</label>
+        <data id="D12" type="text">
+          あはれ、見ばや
+        </data>
+        <ansColumn id="A21">２１</ansColumn><br/>
+        <choices anscol="A21">
+          <choice ansnum="1">
+            <cNum>①</cNum> いとしいなあ、会えればいいなあ 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> しみじみと心惹かれるので、会ってみようかしら 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> ああ、会いたいものだ 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> 本当に、会えるかもしれない 
+          </choice>
+          <choice ansnum="5">
+            <cNum>⑤</cNum> かわいそうだなあ、会ってみたらどうだろうか 
+          </choice>
+        </choices>
+      </question>
+      <br/>
+      <question anscol="A22" answer_style="multipleChoice" answer_type="sentence" id="Q38" minimal="yes">
+        <label>(イ)</label>
+        <data id="D13" type="text">
+          なべてならぬ匂ひ
+        </data>
+        <ansColumn id="A22">２２</ansColumn><br/>
+        <choices anscol="A22">
+          <choice ansnum="1">
+            <cNum>①</cNum> 並大抵でなくすばらしい色合いや香り 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> 全体が一様でない色合いや香り 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> 思いがけないほど洗練された香り 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> 一般的ではない奇抜な色合い 
+          </choice>
+          <choice ansnum="5">
+            <cNum>⑤</cNum> 一面に広がるほのかな香り 
+          </choice>
+        </choices>
+      </question>
+      <br/>
+      <question anscol="A23" answer_style="multipleChoice" answer_type="sentence" id="Q39" minimal="yes">
+        <label>(ウ)</label>
+        <data id="D14" type="text">
+          いかにして思し召し寄りけるぞ
+        </data>
+        <ansColumn id="A23">２３</ansColumn><br/>
+        <choices anscol="A23">
+          <choice ansnum="1">
+            <cNum>①</cNum> どうにかして妹に近付こうとお思いになったのだな 
+          </choice>
+          <choice ansnum="2">
+            <cNum>②</cNum> どうやって気のきいた趣向を思いつきなさったのか 
+          </choice>
+          <choice ansnum="3">
+            <cNum>③</cNum> どれほど妹に対して深く想いをお懸けになっていたことか 
+          </choice>
+          <choice ansnum="4">
+            <cNum>④</cNum> どのようにして妹に好意をお持ちになるようになったのか 
+          </choice>
+          <choice ansnum="5">
+            <cNum>⑤</cNum> 何としてもご自身の想いを遂げようとお考えになったのだな 
+          </choice>
+        </choices>
+      </question>
+      <br/>
+    </question>
+    <question anscol="A24" answer_style="multipleChoice" answer_type="(symbol-sentence)*3" id="Q17" knowledge_type="JC, JG_2" minimal="yes">
+      <label>問２</label>
+      <instruction>
+         波線部<ref target="U55">ａ</ref>～<ref target="U54">ｃ</ref>の敬語についての説明として正しいものを、次の①～⑤のうちから一つ選べ。
+      </instruction>
+      解答番号は <ansColumn id="A24">２４</ansColumn> 。<br/>
+      <choices anscol="A24" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> ａ......兵衛佐から兵部卿宮への敬意を示す謙譲語 ｂ......作者から常磐への敬意を示す尊敬語<br/>
+           ｃ......常磐から兵部卿宮への敬意を示す丁寧語<br/>
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> ａ......兵衛佐から兵部卿宮への敬意を示す丁寧語 ｂ......作者から兵部卿宮への敬意を示す謙譲語<br/>
+           ｃ......常磐から兵衛佐の妹への敬意を示す尊敬語<br/>
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> ａ......兵衛佐から式部卿宮への敬意を示す謙譲語 ｂ......常磐から兵部卿宮への敬意を示す丁寧語<br/>
+           ｃ......常磐から兵衛佐への敬意を示す尊敬語<br/>
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> ａ......兵衛佐から兵部卿宮への敬意を示す丁寧語 ｂ......作者から兵部卿宮への敬意を示す謙譲語<br/>
+           ｃ......常磐から兵部卿宮への敬意を示す尊敬語<br/>
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> ａ......兵衛佐から兵部卿宮への敬意を示す謙譲語 ｂ......女房たちから常磐への敬意を示す尊敬語<br/>
+           ｃ......常磐から兵部卿宮への敬意を示す丁寧語<br/>
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A25" answer_style="multipleChoice" answer_type="sentence" id="Q18" knowledge_type="JC, ST_2, POE" minimal="yes">
+      <label>問３</label>
+      <instruction>
+        <ref target="L4">Ａ</ref>～<ref target="L6">Ｃ</ref>の歌の表現技法とその効果に関する説明として適当でないものを、次の①～⑤のうちから一つ選べ。
+      </instruction>
+      解答番号は <ansColumn id="A25">２５</ansColumn> 。<br/>
+      <choices anscol="A25" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> Ａの歌では白菊の花を「君」になぞらえることによって、手折った菊の美しさをまだ見ぬ兵衛佐の妹の容色と重ねて想像する兵部卿宮の心情を表している。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> Ａの歌に用いられた「うつろふ」には、兵衛佐の妹に対して兵部卿宮の心が傾くようになることと、白菊の花が色変わりすることとの、両方の意味が重ねられている。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> Ｂの歌の「逢坂の関」を「越え」るとは、兵部卿宮が兵衛佐の妹に「逢ふ」ことの比喩表現で、上の句「行き通ふ跡は知らねど」が「逢(ふ)」を導く序詞となっている。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> Ｃの歌の「ふみ」には同音異義語としての「文」と「踏み」とを重ねることによって、二つの意味を織り込む掛詞の技法が用いられている。 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> Ｂの歌とＣの歌は、「こそ」を用いた係り結びによって、兵部卿宮の、まだ見ぬ兵衛佐の妹に対する思い、返事を受け取ることができない悲しみの心情が強調されている。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A26" answer_style="multipleChoice" answer_type="sentence" id="Q19" knowledge_type="JC, R_EMO" minimal="yes">
+      <label>問４</label>
+      <instruction>
+        <ref target="U53">傍線部Ｘ「御簾うち上げて投げ入れぬ」</ref>とあるが、この時の常磐の心情の説明として最も適当なものを、次の①～⑤のうちから一つ選べ。
+      </instruction>
+      解答番号は <ansColumn id="A26">２６</ansColumn> 。<br/>
+      <choices anscol="A26" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 主人の兵部卿宮から何度も兵衛佐の妹の邸への使いを命ぜられ、それが無駄足となってしまっているので、わずらわしく感じている。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 主人の兵部卿宮の手紙を兵衛佐の妹と女房たちが受け取ろうとせず、主人に対し失礼な扱いをするので、いまいましく思っている。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 主人の兵部卿宮が兵衛佐の妹に幾度も手紙を出すなど、特別な扱いをするので、兵衛佐の妹に対して激しい嫉妬をおぼえている。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 主人の兵部脚宮の恋心に気付かない兵衛佐の妹のせいで、主人の期待通りの仲介役を果たせず、自己の立場が悪くなるのではと案じている。 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 主人の兵部卿宮の権威を考えると、宮につれない態度をとっていたら兵衛佐の妹が京にいられなくなるかもしれないと、不憫に感じ心配している。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A27" answer_style="multipleChoice" answer_type="sentence" id="Q20" knowledge_type="JC, R_EMO" minimal="yes">
+      <label>問５</label>
+      <instruction>
+         この文章を通して、兵衛佐の妹に対する兵部卿宮の気持ちはどのように移り変わっているか。その説明として最も適当なものを、次の①～⑤のうちから一つ選べ。
+      </instruction>
+      解答番号は <ansColumn id="A27">２７</ansColumn> 。<br/>
+      <choices anscol="A27" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 最初はお気に入りの兵衛佐の妹なら美しいだろうから会ってみたいと執心していたのに、何度も贈った和歌をはねつけられて落胆した。しかし、常磐に兵衛佐の邸に忍び込むように進言されて再び希望を見出した。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 最初はほんの遊び心で臣下の兵衛佐の妹に会ってみようと思ったが、和歌のやりとりをするうちに本気で兵衛佐の妹を想うようになってきた。そしてついに、兵衛佐が不在の夜に勇んで兵衛佐の邸に忍び込むことにした。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 最初は兵衛佐の熱意におされて気乗りのしないまま兵衛佐の妹に会ってみようと思ったが、兵衛佐が妹に詠ませた和歌に心が動いた。そのうえ、常磐に兵衛佐の邸に忍び込んではどうかとそそのかされて興味がいっそうわいてきた。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 最初は兵衛佐の妹を垣間見してその美しさに心惹かれ、一途に思い詰めて何度も和歌を贈るが、突き返されて立腹した。そこで、恨み言を直接兵衛佐の妹に言うために、常磐に先導させて兵衛佐の留守中に邸に忍び込もうと考えた。 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 最初は両親を亡くして不遇な兵衛佐の妹に同情して世話をしたいと思ったが、意地悪な返事をもらい、一度はあきらめた。けれども、常磐の勧めにより、直接会って再度自分の気持ちを伝えたいと兵衛佐の邸に忍び込む決意をした。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A28" answer_style="multipleChoice" answer_type="sentence" id="Q21" knowledge_type="JC, R_SUM" minimal="yes">
+      <label>問６</label>
+      <instruction>
+         この文章の内容に合致するものを、次の①～⑤のうちから一つ選べ。
+      </instruction>
+      解答番号は <ansColumn id="A28">２８</ansColumn> 。<br/>
+      <choices anscol="A28" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 兵衛佐の妹は、入内して女御や后になるはずだったが、父式部卿宮が亡くなってしまったために叶わなかった。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 兵衛佐の妹に仕える女房たちは、兵部卿宮に気を遣って妹に取り次ごうとしたけれども、妹は頑なに拒絶した。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 兵部卿宮の母親の女御は、宮が兵衛佐の妹に執心し返事も得られずにいる噂を耳にして、とても恥ずかしく思った。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 兵部卿宮が献上させた見事な菊は、兵衛佐の父が、早くに亡くなった妻の形見として大切にしていたものだった。 
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 兵衛佐は、兵部卿宮が妹に関心をもったのを一家を栄えさせる好機と思い、積極的に妹に宮への返事を勧めた。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

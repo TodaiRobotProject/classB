@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE answerTable SYSTEM "http://21robot.org/answerTable.dtd">
+<answerTable filename="sample-ButsuriI">
+<data>
+<section>第1問</section>
+<question>1</question>
+<answer_column>1,2</answer_column>
+<answer>5,3</answer>
+<score>5</score>
+<answer_type>formula</answer_type>
+<answer_style>multipleChoice</answer_style>
+<knowledge_type>KS,DM_P3</knowledge_type>
+<question_ID>Q2</question_ID>
+<anscolumn_ID>A11,A12</anscolumn_ID>
+</data>
+</answerTable>

@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+<exam source="National Center For University Entrance Examination" subject="ButsuriI(main exam)" year="2009">
+  Center-2009--Main-ButsuriI<br/>
+  <title>
+    2009年度 本試験 物理Ⅰ<br/>
+    <br/>
+  </title>
+  <question id="Q1" minimal="no">
+    <label>【１】</label>
+    <instruction>
+      <br/>
+      <br/>
+       次の問い(問１～６)に答えよ。<br/>
+    </instruction>
+    (配点 30)<br/>
+    <question anscol="A11,A12" answer_style="multipleChoice" answer_type="formula" id="Q2" knowledge_type="KS,DM_P3" minimal="yes">
+      <label>問１</label>
+      <instruction>
+         次の文章中の空欄<ref target="B1"><missing string="1"/></ref>・<ref target="B2"><missing string="2"/></ref>に入れる数値として正しいものを，以下の①～⑤のうちから一つずつ選べ。ただし，同じものを繰り返し選んでもよい。<br/>
+      </instruction>
+      <ansColumn id="A11"><missing string="1"/></ansColumn><ansColumn id="A12"><missing string="2"/></ansColumn><br/>
+      <data id="D7" type="text">
+        水平なあらい面上で物体をすべらせ，すべり始めてから停止するまでの距離が初速度または動摩擦係数によってどのように変わるかを考える。動摩擦係数が同じ場合，初速度が2倍になると，停止するまでの距離は<blank id="B1"><missing string="1"/></blank>倍になる。一方，初速度が同じ場合，動摩擦係数が<formula/>倍になると，停止するまでの距離は<blank id="B2"><missing string="2"/></blank>倍になる。<br/>
+      </data>
+      <br/>
+      <choices anscol="A11 A12" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 1 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum><formula/><formula comment="mℊsinθ"/>
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 2 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum><formula/>
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum> 4 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>

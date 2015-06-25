@@ -1,0 +1,89 @@
+<?xml version='1.0'?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+<exam source="National Center For University Entrance Examination" subject="Rinri(main exam)" year="2009">
+  Center-2009--Main-Rinri<br/>
+  <title>
+    2009年度 本試験 倫理<br/>
+    <br/>
+  </title>
+  <question id="Q1" minimal="no">
+    <label>【１】</label>
+    <instruction>
+      <br/>
+      <br/>
+       次の文章を読み，以下の問い(問１～３)に答えよ。<br/>
+    </instruction>
+    (配点 ８)
+    <data id="D0" type="text">
+      <br/>
+       青年期は，自我に目覚め，生きる意味を巡って悩み始める時期であると言われる。しかし，果たして，<uText id="U1"><label>(a)</label>悩んでいるのは青年だけなのだろうか</uText>。<br/>
+       例えば，成人期にあたる親世代について考えてみよう。成人期において，人は家庭生活や職業生活のうえで様々な役割の変化を経験し，そこで遭遇する様々な問題への対応を迫られる。そして，これらの問題に対して，時に葛藤を覚え，また時に現在確立している自身の自我同一性(アイデンティティ)の危機を感じることもある。<br/>
+       このように，青年期が，「自分自身を見つめ，自己を確立していく」初めての時期だとすれば，<uText id="U2"><label>(b)</label>成人期は，これまでの自分のあり方に危機を感じたときに，いったん確立した自己の問い直し，再確立が求められる時期である</uText>。<br/>
+       このように考えると，<uText id="U3"><label>(c)</label>人生は，常に自分と向き合いながら，成長し続ける旅</uText>だと言うこともできる。<br/>
+      <br/>
+    </data>
+    <question anscol="A2" answer_style="multipleChoice" answer_type="sentence" id="Q3" knowledge_type="GK" minimal="yes">
+      <label>問２</label>
+      <instruction>
+         下線部<ref comment="" target="U2">(b)</ref>に関して，自我同一性を見失っている心理状態の例として最も適当なものを，次の①～④のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A2">２</ansColumn><br/>
+      <choices anscol="A2" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum> 定年で，仕事を辞め，空虚さを感じていた時もありました。今，これまでの人生を振り返って自分史を書き始めています。思いのほか，たくさんの人にお世話になってきた自分を改めて感じています。 
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum> 結婚を前提に特定の人と付き合っている友だちがおり，すごく生活が充実しているようにみえます。結婚を焦る気持ちも正直ありますが，今，仕事が充実しており，しばらく仕事をがんばろうかなと思っています。 
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum> 小学生の子どもがいます。学校に行ったり行かなかったりで，友だちとトラブルがあったのではないかと心配です。自分の会社での仕事も忙しく，大きな仕事の責任者となっています。いろいろと考えることが多いです。 
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum> 子どもも大学に入り，家を出ていきました。心の中にぽっかりと穴が空いた感じが続いています。自分の人生っていったい何だったのだろうか，自分の存在意義って何なのだろうか，いろいろと思い悩んでいます。 
+        </choice>
+        <br/>
+      </choices>
+    </question>
+    <question anscol="A3" answer_style="multipleChoice" answer_type="(symbol-symbol)*4" id="Q4" knowledge_type="KS" minimal="yes">
+      <label>問３</label>
+      <instruction>
+         下線部<ref comment="" target="U3">(c)</ref>に関連して，エリクソンは，人生を八つの発達段階に分けて，それぞれの特徴について記述している。そのうち次の青年期以降の四つの発達段階ア～エとその特徴Ａ～Ｄとの組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。
+      </instruction>
+      <ansColumn id="A3">３</ansColumn><br/>
+      <data id="D6" type="table">
+        <br/>
+        <lText id="L1"><label>ア</label> 青年期 </lText><lText id="L2"><label>イ</label> プレ成人期(成人前期)<br/>
+        </lText><lText id="L3"><label>ウ</label> 成人期(成人中期)</lText><lText id="L4"><label>エ</label> 老年期(成人後期)<br/>
+        </lText><br/>
+        <lText id="L5"><label>Ａ</label> これまで培ってきた自分自身に対する認識を基盤として，特定の人との友情，愛，性的親密さを得ることが求められる。<br/>
+        </lText><lText id="L6"><label>Ｂ</label> 自分は何者なのか，何をなすべきなのかという自己についてのゆれを克服し，自己確立についての確信を得ることが求められる。<br/>
+        </lText><lText id="L7"><label>Ｃ</label> いろいろなことがあったこれまでの人生のすべてを，自分のものとして，受け入れることが求められる。<br/>
+        </lText><lText id="L8"><label>Ｄ</label> 次の世代を支えていく子どもたちを生み，育てていくことに対し，積極的に関与することが求められる。<br/>
+        </lText>
+      </data>
+      <br/>
+      <choices anscol="A3" comment="">
+        <choice ansnum="1">
+          <cNum>①</cNum><ref comment="" target="L1">ア</ref>−<ref comment="" target="L6">Ｂ</ref><ref comment="" target="L2">イ</ref>−<ref comment="" target="L5">Ａ</ref><ref comment="" target="L3">ウ</ref>−<ref comment="" target="L8">Ｄ</ref><ref comment="" target="L4">エ</ref>−<ref comment="" target="L7">Ｃ</ref>
+        </choice>
+        <choice ansnum="2">
+          <cNum>②</cNum><ref comment="" target="L1">ア</ref>−<ref comment="" target="L5">Ａ</ref><ref comment="" target="L2">イ</ref>−<ref comment="" target="L7">Ｃ</ref><ref comment="" target="L3">ウ</ref>−<ref comment="" target="L6">Ｂ</ref><ref comment="" target="L4">エ</ref>−<ref comment="" target="L8">Ｄ</ref>
+        </choice>
+        <choice ansnum="3">
+          <cNum>③</cNum><ref comment="" target="L1">ア</ref>−<ref comment="" target="L5">Ａ</ref><ref comment="" target="L2">イ</ref>−<ref comment="" target="L6">Ｂ</ref><ref comment="" target="L3">ウ</ref>−<ref comment="" target="L8">Ｄ</ref><ref comment="" target="L4">エ</ref>−<ref comment="" target="L7">Ｃ</ref>
+        </choice>
+        <choice ansnum="4">
+          <cNum>④</cNum><ref comment="" target="L1">ア</ref>−<ref comment="" target="L6">Ｂ</ref><ref comment="" target="L2">イ</ref>−<ref comment="" target="L7">Ｃ</ref><ref comment="" target="L3">ウ</ref>−<ref comment="" target="L8">Ｄ</ref><ref comment="" target="L4">エ</ref>−<ref comment="" target="L5">Ａ</ref>
+        </choice>
+        <choice ansnum="5">
+          <cNum>⑤</cNum><ref comment="" target="L1">ア</ref>−<ref comment="" target="L5">Ａ</ref><ref comment="" target="L2">イ</ref>−<ref comment="" target="L6">Ｂ</ref><ref comment="" target="L3">ウ</ref>−<ref comment="" target="L7">Ｃ</ref><ref comment="" target="L4">エ</ref>−<ref comment="" target="L8">Ｄ</ref>
+        </choice>
+        <choice ansnum="6">
+          <cNum>⑥</cNum><ref comment="" target="L1">ア</ref>−<ref comment="" target="L6">Ｂ</ref><ref comment="" target="L2">イ</ref>−<ref comment="" target="L5">Ａ</ref><ref comment="" target="L3">ウ</ref>−<ref comment="" target="L7">Ｃ</ref><ref comment="" target="L4">エ</ref>−<ref comment="" target="L8">Ｄ</ref>
+        </choice>
+        <br/>
+      </choices>
+    </question>
+  </question>
+</exam>
