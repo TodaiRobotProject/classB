@@ -1,4 +1,4 @@
-# classB
+# classB (public)
 
 Todai Robot Project:
 
