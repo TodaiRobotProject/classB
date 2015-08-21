@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DTD renewed on Jul 30, 2014. 7/22からの変更内容：(1)noteの子要素にsourceを追加。 6/30からの変更内容：(1)rbの子要素にunkを追加。(2)noteの子要素にquoteを追加。(3)captionの子要素にsubとsupを追加。  6/26からの変更内容：(1)cellの子要素にsupおよびsubを追加。(2)noteの子要素にformulaを追加。(3)infoの子要素にformulaを追加。(4)formulaの子要素にuTextを追加。(5)lineStart, paragraph要素を追加。(6)dataの子要素に、lineStart, paragraphを追加。 2014/3/13からの変更内容：(1)pageStartのpn属性をCDATAからIDに変更 (2)pageEndのpn属性をIMPLIEDに変更　3/13からの変更内容：(1)source, noteの子要素にrefを追加 12/20からの変更内容：(1)cellの子要素にimgを追加。(2)examの子要素に、pageStart, pageEndを追加。(3)lTextの子要素に、lTextを追加。(4)supおよびsubの子要素にrefを追加。  9/19からの変更内容：(1)ruby, rb, rtを追加。(2)unkタグを追加。(3)pageStart, pageEndを追加。  9/3からの変更内容：(1)ansColumnの下にblankがこれるようにした。(2)mathが、caption, data, questionの子になれるようにした。 8/21からの変更内容：(1)<okuriL><okuri><sub><sup><kaeri>がchoice, instruction, data, uText, lText, noteの子になれるようにした。(2)<sub><sup><ref>がformulaの子になれるようにした。(3)dataの子にcaptionが二つ入っているのを一つにした。(4)blankがsup, subの子になれるようにした。 8/20からの変更内容：(1) adataの子として、formula, mathを追加。8/19からの変更内容：<okuriL><okuri><sub><sup><kaeri>を追加した。 5/24からの変更内容：(1)imgにcorresponding_obj属性を追加。(2)adata要素を追加。属性として、id、type、fieldを定義。(3)adataが、data, choices, choice, question, instructionの各要素の子になれるようにした。 5/13日からの変更内容：(1)formulaの子にblankを追加 (2)choiceにansnum属性を追加 (3)cellの子にlTextを追加 (4) question, choicesのanscol属性をCDATAに-->
+
+<!ELEMENT paragraph (#PCDATA |garbled| blank | img | lText | tbl | label | uText | caption | ansColumn | source | note | quote | choice|cNum|missing|ref |data|br|choices|formula|row|cell|adata|okuriL|okuri|sub|sup|kaeri|math|pageStart|pageEnd|unk|ruby|lineStart)*>
+<!ATTLIST paragraph
+	prn ID #REQUIRED
+>
+
+<!ELEMENT lineStart EMPTY>
+<!ATTLIST lineStart
+	ln ID #REQUIRED
+>
+
+<!ELEMENT pageStart EMPTY>
+<!ATTLIST pageStart
+	pn ID #REQUIRED
+>
+<!ELEMENT pageEnd EMPTY>
+<!ATTLIST pageEnd
+	pn CDATA #IMPLIED
+>
+
+<!ELEMENT unk (#PCDATA)*>
+<!ATTLIST unk
+	imgsrc CDATA #IMPLIED
+	comment CDATA #IMPLIED
+>
+
+<!ELEMENT ruby (#PCDATA|rb|rt)*>
+<!ELEMENT rb (#PCDATA|kaeri|unk)*>
+<!ELEMENT rt (#PCDATA)*>
+
+<!ELEMENT okuriL (#PCDATA)*>
+<!ELEMENT sup (#PCDATA|blank|ref)*>
+<!ELEMENT sub (#PCDATA|blank|ref)*>
+<!ELEMENT kaeri (#PCDATA)*>
+<!ELEMENT okuri (#PCDATA)*>
+
+<!ELEMENT adata (#PCDATA|choices|choice|tbl|formula|math)*>
+<!ATTLIST adata
+	id ID #REQUIRED
+	type CDATA #IMPLIED
+	field CDATA #IMPLIED
+>
+<!ELEMENT caption (#PCDATA | label|garbled|ref|missing|blank|br|choice|cNum|lText|formula|quote|source|uText|math|pageStart|pageEnd|unk|ruby|sub|sup)*>
+<!ELEMENT uText (#PCDATA | label|garbled|ref|missing|blank|br|choice|cNum|lText|formula|quote|source|uText|math|okuriL|okuri|sub|sup|kaeri|pageStart|pageEnd|unk|ruby)*>
+<!ATTLIST uText
+	id ID #REQUIRED
+>
+<!ELEMENT title (#PCDATA|garbled |missing|br)*>
+<!ELEMENT tbl (#PCDATA|row|label|choice|cNum|br|cell|blank|ref|uText|choices|formula|quote|source|garbled|missing|pageStart|pageEnd|unk|ruby)*>
+<!ATTLIST tbl
+	numOfCols CDATA #IMPLIED
+	numOfRows CDATA #IMPLIED
+>
+<!ELEMENT row (#PCDATA | cell|label|choice|br|blank|ref|cNum|uText|choices|formula|quote|source|pageStart|pageEnd|unk|ruby)*>
+<!ELEMENT ref (#PCDATA|garbled |missing|br|formula|uText|lText|pageStart|pageEnd|unk|ruby)*>
+<!ATTLIST ref
+	comment CDATA #IMPLIED
+	target IDREF #IMPLIED
+>
+<!ELEMENT question (#PCDATA |garbled| label | instruction | data | question | ansColumn | choice | img | tbl | choices|cNum|missing |ref|br|formula|quote|source|lText|info|adata|math|pageStart|pageEnd|unk|ruby)*>
+<!ATTLIST question
+	id ID #REQUIRED
+	minimal (null|yes | no) #REQUIRED
+	answer_style CDATA #IMPLIED
+	answer_type CDATA #IMPLIED
+	knowledge_type CDATA #IMPLIED
+	anscol CDATA #IMPLIED
+	title CDATA #IMPLIED
+	sectionId CDATA #IMPLIED
+	comment CDATA #IMPLIED
+>
+<!ELEMENT label (#PCDATA|br|garbled|missing)*>
+<!ELEMENT lText (#PCDATA |garbled| label|ref|missing|blank|br|choice|cNum|uText|formula|quote|source|math|okuriL|okuri|sub|sup|kaeri|pageStart|pageEnd|unk|ruby|lText)*>
+<!ATTLIST lText
+	id ID #REQUIRED
+>
+<!ELEMENT instruction (#PCDATA |garbled| ref|missing |label |ansColumn|lText|uText|br|blank|formula|quote|source|img|choices|data|math|adata|okuriL|okuri|sub|sup|kaeri|pageStart|pageEnd|unk|ruby)*>
+<!ELEMENT info (#PCDATA|garbled|missing|br|formula)*>
+<!ELEMENT img EMPTY>
+<!ATTLIST img
+	src CDATA #REQUIRED
+	comment CDATA #IMPLIED
+	corresponding_obj IDREFS #IMPLIED
+>
+<!ELEMENT exam (#PCDATA|title|info|question|cNum|label|garbled|missing|choice|choices|br|ref|ansColumn|pageStart|pageEnd)*>
+<!ATTLIST exam
+	source CDATA #IMPLIED
+	srcTxtURL CDATA #IMPLIED
+	subject CDATA #REQUIRED
+	year CDATA #IMPLIED
+	range_of_options IDREFS #IMPLIED
+	num_of_options CDATA #IMPLIED
+	xml:space (default|preserve) "default"
+>
+<!ELEMENT data (#PCDATA |garbled| blank | img | lText | tbl | label | uText | caption | ansColumn | source | note | quote | choice|cNum|missing|ref |data|br|choices|formula|row|cell|adata|okuriL|okuri|sub|sup|kaeri|math|pageStart|pageEnd|unk|ruby|lineStart|paragraph)*>
+<!ATTLIST data
+	id ID #REQUIRED
+	type (complex | text | table | image ) #REQUIRED
+>
+<!ELEMENT choices (#PCDATA |garbled| cNum | ref | img | tbl | row | cell| uText | lText |choice|missing|br |label|formula|quote|source|adata|pageStart|pageEnd|unk|ruby)*>
+<!ATTLIST choices
+	comment CDATA #IMPLIED
+	anscol CDATA #IMPLIED
+>
+<!ELEMENT choice (#PCDATA |garbled| cNum | ref | img | tbl | uText | lText|missing |cell|br|label|formula|quote|source|math|data|adata|okuriL|okuri|sub|sup|kaeri|pageStart|pageEnd|unk|ruby)*>
+<!ATTLIST choice
+	ra (no | yes) #IMPLIED
+	comment CDATA #IMPLIED
+	ansnum CDATA #IMPLIED
+>
+<!ELEMENT cell (#PCDATA |garbled| blank | ansColumn | ref|missing|label|cNum|br |choice|uText|choices|formula|quote|source|lText|math|pageStart|pageEnd|unk|ruby|img|sub|sup)*>
+<!ATTLIST cell
+	type (label | data) #IMPLIED
+	colspan CDATA #IMPLIED
+	rowspan CDATA #IMPLIED
+>
+
+<!ELEMENT cNum (#PCDATA|garbled|missing|br)*>
+<!ELEMENT blank (#PCDATA |garbled| label | ansColumn|missing|br)*>
+<!ATTLIST blank
+	id ID #REQUIRED
+	digits CDATA #IMPLIED
+>
+<!ELEMENT ansColumn (#PCDATA | label|garbled|missing|ref|br|blank)*>
+<!ATTLIST ansColumn
+	id ID #REQUIRED
+>
+<!ELEMENT source (#PCDATA|garbled|missing|br|pageStart|pageEnd|unk|ruby|ref)*>
+<!ELEMENT note (#PCDATA | label|garbled|missing|br|okuriL|okuri|sub|sup|kaeri|pageStart|pageEnd|unk|ruby|ref|formula|quote|source)*>
+<!ATTLIST note id ID #REQUIRED>
+<!ELEMENT quote (#PCDATA|garbled|missing|br|uText|lText|ref|label|blank|note|source|pageStart|pageEnd|unk|ruby)*>
+<!ELEMENT garbled (#PCDATA|br|label)*>
+<!ATTLIST garbled correction CDATA #IMPLIED>
+<!ELEMENT missing EMPTY>
+<!ATTLIST missing string CDATA #IMPLIED>
+<!ELEMENT formula (#PCDATA|garbled|missing|br|blank|ref|sub|sup|uText)*>
+<!ATTLIST formula comment CDATA #IMPLIED>
+<!ELEMENT br EMPTY>

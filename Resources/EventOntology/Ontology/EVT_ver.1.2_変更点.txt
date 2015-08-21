@@ -1,0 +1,65 @@
+9/26
+
+ver.1.1からの変更点
+
+・以下の項目のevt:leader-org_implicationから, leader->org(agent)を削除
+催し物の開催
+義務付け
+採用
+解任
+導入
+奨励
+
+・変更
+課税：evt:leader-org_implicationに, leader->org(agent)を追加
+法・制度・政策の導入：evt:leader-org_implicationに, leader->org(agent)を追加
+経験：themeのクラス制約をoccurrentからoccurent|contentに変更
+戦争における勝利　→　「戦いにおける勝利」に名称変更
+建造物の建設：参加者にlocationを追加。それに伴い、linguistic_realizationも変更。succeeding_event追加。
+防衛を守護のサブクラスに入れた。
+弱いエージェントの移動(moving)：ラベルを「弱いエージェントの移動(moving to somewhere)」に変更
+
+
+・新規追加済みクラス
+安定
+混乱
+装飾
+脅かす
+治療
+接触
+家系の消滅
+病気を患う
+感染
+謝罪
+負傷
+建造物の存在
+管理
+監視
+搾取
+供給
+孤立
+解禁
+共有
+警備
+護衛
+守備
+依頼
+付き添う
+同行
+持続物が動く
+観察
+調査
+催し物の実行
+伝承
+出入口が閉まる
+出入口を閉める
+出入口が開く
+出入口を開ける
+封鎖
+開場
+開港
+
+
+
+
+
